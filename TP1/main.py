@@ -14,6 +14,7 @@
 #Todas as linhas têm o mesmo formato <text top=?? left=?? width=?? height=?? font=??>TEXTO</text>
 
 
+import json
 import re
 
 texto=open("medicina.xml").read()
@@ -109,37 +110,106 @@ texto=remainingText(texto)
 #De ###R, se não houver um ###C, até % é uma palavra a traduzir
 dicionario={}
 
+#Separar por tags
 
-palavra=""
-entrada={}
+lines=texto.splitlines()
 
+linhas=[]
+j=0
+i=0
 
-for line in texto.splitlines():
+while i < len(lines):
+    line=lines[i]
     if line.startswith("###C"):
-        if(entrada is not {}):
-            dicionario[palavra]=entrada
-            entrada={}
-        else:
-            palavra=re.match(r'###C (\d+) ((?:\S+ ?)+)',line).group(2)
+        linhas.append(line.strip())
+        i+=1
     elif line.startswith("###R"):
-        if(entrada is not {} and palavra==entrada['palavra']):
-            dicionario[palavra]=entrada
-            entrada={}
-        else:
-            palavra="".join((re.match(r'###R ((?:\S+ ?)+)',line).group(1),palavra))
+        linhas.append(line.strip())
+        i+=1
     elif line.startswith("%"):
-        if(entrada is not {}):
-            entrada['palavra']=palavra
-            entrada['areas']=re.match(r'%(.*)',line).group(1).split()
+        linhas.append(line.strip())
+        i+=1
     elif line.startswith("&"):
-        lingua=re.match(r'&(\w+)',line).group(1)
+        linhas.append(line.strip())
+        i+=1
+    elif line.startswith("SIN"):
+        linhas.append(line.strip())
+        i+=1
+    elif line.startswith("VID"):
+        linhas.append(line.strip())
+        i+=1
+    elif line.startswith("NOTA"):
+        linhas.append(line.strip())
+        i+=1
+    else:
+        linhas[-1]+=" "+line.strip()
+        i+=1
 
-    #If the line is the last one, add the entry to the dictionary
-    elif line == "\n":
-        dicionario[palavra]=entrada
-        break
+i=0
+j=0
+palavra=""
+palavras=[]
 
-
-
+while i < len(linhas):
+    linha=linhas[i]
+    if linha.startswith("###C"):
+        for j in range(i+1,len(linhas)):
+            if linhas[j].startswith("###R"):
+                linha+=" "+linhas[j]
+            else:
+                i=j
+                break
+        
+        linha=re.sub(r'###\w ',"",linha)
+        linha=re.sub(r'(?<=\d)\s+(?=\d)','',linha,flags=re.MULTILINE)
+        match=re.search(r'(\d+) +((?:[A-Za-zÀ-ÖØ-öø-ÿ0-9\-]+ ?)+)',linha)
+        num=match.group(1)
+        palavra=match.group(2)
+        palavras.append({"num":num,"palavra":palavra})
+    
+    elif linha.startswith("###R"):
+        if(linhas[i-1].startswith("###C")):
+            print("Erro")
+        for j in range(i+1,len(linhas)):
+            if linhas[j].startswith("###R"):
+                linha+=" "+linhas[j]
+            else:
+                i=j
+                break
+        linha=re.sub(r'###\w ',"",linha)
+        palavras.append({"palavra":linha,"num":None})
+    elif linha.startswith("&"):
+        matches=re.findall(r'(?:&(\w{2})|;) ?(.*?)( ;| \[|$)',linha)
+        if('traducao' not in palavras[-1]):
+            palavras[-1]["traducao"]={}
+        lingua=matches[0][0]
+        palavras[-1]["traducao"][lingua]=[]
+        for match in matches:
+            if(match[1] is not None):
+                traducao=match[1]
+                palavras[-1]["traducao"][lingua].append(traducao)
+        i+=1
+    elif linha.startswith("%"):
+        linha=re.sub(r'%',"",linha)
+        palavras[-1]["areas"]=linha.split()
+        i+=1
+    elif linha.startswith("SIN"):
+        linha=re.sub(r'SIN ',"",linha)
+        palavras[-1]["sinonimos"]=[x.strip() for x in linha.split(";")]
+        i+=1
+    elif linha.startswith("VID"):
+        linha=re.sub(r'VID ',"",linha)
+        palavras[-1]["vid"]=linha
+        i+=1
+    elif linha.startswith("NOTA"):
+        linha=re.sub(r'NOTA ',"",linha)
+        palavras[-1]["nota"]=linha
+        i+=1
+    else:
+        i+=1
+    
 with open("output.xml","w") as f:
     f.write(texto)
+
+with open("final.json","w") as file:
+    json.dump(palavras,file,indent=4,ensure_ascii=False)
