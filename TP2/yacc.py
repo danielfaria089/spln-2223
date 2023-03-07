@@ -71,6 +71,11 @@ def p_error(p):
     print('Syntax error: ', p)
 
 
-
 # Build the parser
 parser = yacc.yacc(debug=True)
+
+# Read the input file
+if len(sys.argv) > 1:
+    filename = sys.argv[1]
+else:
+    filename = 'input.txt'

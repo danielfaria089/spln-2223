@@ -119,7 +119,7 @@ j=0
 i=0
 
 while i < len(lines):
-    line=lines[i]
+    line=lines[i].strip()
     if line.startswith("###C"):
         linhas.append(line.strip())
         i+=1
@@ -139,6 +139,9 @@ while i < len(lines):
         linhas.append(line.strip())
         i+=1
     elif line.startswith("NOTA"):
+        linhas.append(line.strip())
+        i+=1
+    elif line.startswith("VAR"):
         linhas.append(line.strip())
         i+=1
     else:
@@ -191,7 +194,9 @@ while i < len(linhas):
         i+=1
     elif linha.startswith("%"):
         linha=re.sub(r'%',"",linha)
-        palavras[-1]["areas"]=linha.split()
+        #Elementos da lista de areas de estudo estão separados por mais que um espaço
+        palavras[-1]["areas"]=[x.strip() for x in linha.split("  ") if x.strip() != ""]
+        
         i+=1
     elif linha.startswith("SIN"):
         linha=re.sub(r'SIN ',"",linha)
@@ -204,6 +209,10 @@ while i < len(linhas):
     elif linha.startswith("NOTA"):
         linha=re.sub(r'NOTA ',"",linha)
         palavras[-1]["nota"]=linha
+        i+=1
+    elif linha.startswith("VAR"):
+        linha=re.sub(r'VAR\.-',"",linha)
+        palavras[-1]["var"]=linha
         i+=1
     else:
         i+=1
@@ -222,6 +231,7 @@ for key in palavras:
         palavra["traducao"]["ga"]=[palavra["palavra"]]
     if "sinonimos" in palavra:
         palavra["traducao"]["ga"].extend(palavra["sinonimos"])
+        del palavra["sinonimos"]
     del palavra["palavra"]
     del palavra["num"]  
     
