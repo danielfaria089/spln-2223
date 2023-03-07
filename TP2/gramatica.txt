@@ -1,0 +1,17 @@
+DIC -> meta E*
+E -> ITEM*
+
+ITEM -> AT-CONC
+    | LINGUA
+
+AT-CONC -> ID ':' VAL
+
+LINGUA -> ID-LING ':' T
+        | ID-LING ':' TS
+
+TS -> TS '\n' '\t' '-' T
+    | T
+
+T -> TERMO AT-T*
+
+AT-T -> '+' ID : VAL

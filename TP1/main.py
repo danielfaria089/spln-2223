@@ -208,7 +208,7 @@ while i < len(linhas):
     else:
         i+=1
     
-with open("output.xml","w") as f:
+with open("output.txt","w") as f:
     f.write(texto)
 
 with open("final.json","w") as file:
