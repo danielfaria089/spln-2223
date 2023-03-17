@@ -182,7 +182,7 @@ while i < len(linhas):
         linha=re.sub(r'###\w ',"",linha)
         palavras.append({"palavra":linha,"num":None})
     elif linha.startswith("&"):
-        matches=re.findall(r'(?:&(\w{2})|;) ?(.*?)( ;| \[|$)',linha)
+        matches=re.findall(r'(?:&(\w{2})|;) ?(.*?)( ;|$)',linha)
         if('traducao' not in palavras[-1]):
             palavras[-1]["traducao"]={}
         lingua=matches[0][0]

@@ -1,17 +1,78 @@
-DIC -> meta E*
-E -> ITEM*
+DIC -> E*
 
-ITEM -> AT-CONC
-    | LINGUA
+E   -> ID ':' ITEM*
 
-AT-CONC -> ID ':' VAL
+ITEM    -> Area
+    | Linguas
 
-LINGUA -> ID-LING ':' T
-        | ID-LING ':' TS
+Area    -> 'Areas' ':' VAL+
 
-TS -> TS '\n' '\t' '-' T
-    | T
+Linguas -> 'Linguas' ':' Lingua
 
-T -> TERMO AT-T*
+Lingua  -> '@' ID_LING ':' Entrada
 
-AT-T -> '+' ID : VAL
+Entrada -> VAL Var*
+
+Var     -> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

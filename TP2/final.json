@@ -51,12 +51,11 @@
             ],
             "en": [
                 "abdomen",
-                "gut"
+                "gut [pop.]"
             ],
             "pt": [
                 "abdome",
-                "abdómen",
-                "barriga",
+                "abdómen [Pt.]",
                 "região abdominal"
             ],
             "la": [
@@ -82,7 +81,7 @@
             ],
             "pt": [
                 "abdome agudo",
-                "abdómen agudo"
+                "abdómen agudo [Pt.]"
             ],
             "ga": [
                 "abdome agudo"
@@ -122,7 +121,7 @@
             ],
             "pt": [
                 "abdome distendido",
-                "abdómen distendido"
+                "abdómen distendido [Pt.]"
             ],
             "ga": [
                 "abdome globuloso",
@@ -611,8 +610,7 @@
                 "arachidonic acid"
             ],
             "pt": [
-                "ácido araquidônico",
-                "ácido araquidónico"
+                "ácido araquidônico [Br.]"
             ],
             "ga": [
                 "ácido araquidónico"
@@ -732,8 +730,7 @@
                 "glutamate"
             ],
             "pt": [
-                "ácido glutâmico",
-                "ácido glutámico",
+                "ácido glutâmico [Br.]",
                 "glutamato"
             ],
             "ga": [
@@ -778,8 +775,7 @@
                 ""
             ],
             "pt": [
-                "ácido láctico",
-                "ácido lático"
+                "ácido láctico [Pt.]"
             ],
             "ga": [
                 "ácido láctico"
@@ -1235,8 +1231,7 @@
                 "acromial process"
             ],
             "pt": [
-                "acrômio",
-                "acrómio"
+                "acrômio [Br.]"
             ],
             "la": [
                 "acromion"
@@ -1413,8 +1408,7 @@
                 "medical procedure"
             ],
             "pt": [
-                "acto médico",
-                "ato médico"
+                "acto médico [Pt.]"
             ],
             "ga": [
                 "acto médico"
@@ -2020,8 +2014,7 @@
             ],
             "pt": [
                 "afasia amnésica",
-                "afasia anómica",
-                "anomia"
+                "afasia anómica [Pt.]"
             ],
             "ga": [
                 "afasia amnésica",
@@ -2626,7 +2619,7 @@
             ],
             "pt": [
                 "fetor uremicus",
-                "hálito urémico"
+                "hálito urémico [Pt.]"
             ],
             "ga": [
                 "alento urémico",
@@ -3237,8 +3230,7 @@
                 "amenorrhea"
             ],
             "pt": [
-                "amenorréia",
-                "amenorreia"
+                "amenorréia [Br.]"
             ],
             "ga": [
                 "amenorrea"
@@ -3960,8 +3952,7 @@
                 "androgen"
             ],
             "pt": [
-                "androgênio",
-                "androgénio",
+                "androgênio [Br.]",
                 "andrógeno"
             ],
             "ga": [
@@ -4278,8 +4269,7 @@
         "var": " anestesia (f) [col.]",
         "traducao": {
             "es": [
-                "anestesia",
-                "anestésico"
+                "anestesia [col.]"
             ],
             "en": [
                 "anesthetic"
@@ -4443,8 +4433,7 @@
                 "carbonic anhydrase"
             ],
             "pt": [
-                "anidrase carbônica",
-                "anidrase carbónica"
+                "anidrase carbônica [Br.]"
             ],
             "ga": [
                 "anhidrase carbónica"
@@ -4582,10 +4571,8 @@
                 "chromosomal aberration"
             ],
             "pt": [
-                "aberração cromossômica",
-                "aberração cromossómica",
-                "anomalia cromossômica",
-                "anomalia cromossómica"
+                "aberração cromossômica [Br.]",
+                "anomalia cromossômica [Br.]"
             ],
             "ga": [
                 "anomalía cromosómica",
@@ -5215,8 +5202,7 @@
                 "antianemic"
             ],
             "pt": [
-                "antianêmico",
-                "antianémico"
+                "antianêmico [Br.]"
             ],
             "ga": [
                 "antianémico"
@@ -7018,8 +7004,7 @@
                 "angiotensinogen"
             ],
             "pt": [
-                "angiotensinogênio",
-                "angiotensinogénio"
+                "angiotensinogênio [Br.]"
             ],
             "ga": [
                 "anxiotensinóxeno"
@@ -7059,8 +7044,7 @@
                 "angiogenesis"
             ],
             "pt": [
-                "angiogênese",
-                "angiogénese"
+                "angiogênese [Br.]"
             ],
             "ga": [
                 "anxioxénese"
@@ -8181,8 +8165,7 @@
                 "arsenic"
             ],
             "pt": [
-                "arsênico",
-                "arsénico"
+                "arsênico [Br.]"
             ],
             "ga": [
                 "arsénico",
@@ -8654,8 +8637,7 @@
                 "splenic artery"
             ],
             "pt": [
-                "artéria esplênica",
-                "artéria"
+                "artéria esplênica [Br.]"
             ],
             "la": [
                 "arteria lienalis"
@@ -10561,8 +10543,7 @@
                 "tactile agnosia"
             ],
             "pt": [
-                "agnosia táctil",
-                "agnosia tátil",
+                "agnosia táctil [Pt.]",
                 "astereognósia"
             ],
             "ga": [
@@ -10781,8 +10762,7 @@
                 "secondary care"
             ],
             "pt": [
-                "atenção especializada",
-                "cuidados de saúde secundários"
+                "atenção especializada [Br.]"
             ],
             "ga": [
                 "atención especializada",
@@ -10802,8 +10782,7 @@
                 "holistic health care"
             ],
             "pt": [
-                "atenção integral",
-                "cuidados integrados"
+                "atenção integral [Br.]"
             ],
             "ga": [
                 "atención integral"
@@ -10823,7 +10802,7 @@
             ],
             "pt": [
                 "assistência médica",
-                "cuidados médicos"
+                "cuidados médicos [Pt.]"
             ],
             "ga": [
                 "atención médica",
@@ -10862,8 +10841,7 @@
                 "primary care"
             ],
             "pt": [
-                "atenção primária",
-                "cuidados de saúde primários"
+                "atenção primária [Br.]"
             ],
             "ga": [
                 "atención primaria",
@@ -11654,8 +11632,7 @@
                 "axón"
             ],
             "en": [
-                "axis cylinder",
-                "axon"
+                "axis cylinder [arc.]"
             ],
             "pt": [
                 "axônio"
@@ -12222,9 +12199,8 @@
                 "calf"
             ],
             "pt": [
-                "barriga da perna",
-                "pantorrilha",
-                "sura"
+                "barriga da perna [pop.]",
+                "panturrilha"
             ],
             "la": [
                 "sura"
@@ -12900,9 +12876,8 @@
             ],
             "pt": [
                 "blenorragia",
-                "blenorreia",
-                "gonorréia",
-                "gonorreia"
+                "blenorreia [Pt.]",
+                "gonorreia [Pt.]"
             ],
             "ga": [
                 "blenorraxia",
@@ -13045,8 +13020,7 @@
                 "bocio"
             ],
             "en": [
-                "goiter",
-                "goitre"
+                "goiter [EE. UU.]"
             ],
             "pt": [
                 "bócio"
@@ -13069,8 +13043,7 @@
                 "bocio simple"
             ],
             "en": [
-                "simple goiter",
-                "simple goitre"
+                "simple goiter [EE. UU.]"
             ],
             "pt": [
                 "bócio simples"
@@ -13260,8 +13233,7 @@
                 "H(+)-ATPase pump"
             ],
             "pt": [
-                "bomba de protões",
-                "bomba de prótons",
+                "bomba de protões [Pt.]",
                 "H(+)-ATPase"
             ],
             "ga": [
@@ -13683,8 +13655,7 @@
                 "bronchorrhea"
             ],
             "pt": [
-                "broncorréia",
-                "broncorreia"
+                "broncorréia [Br.]"
             ],
             "ga": [
                 "broncorrea"
@@ -13976,10 +13947,8 @@
                 "olfactory bulb"
             ],
             "pt": [
-                "bulbo olfactivo",
-                "bulbo olfactório",
-                "bulbo olfativo",
-                "bulbo olfatório"
+                "bulbo olfactivo [Pt.]",
+                "bulbo olfativo [Br.]"
             ],
             "la": [
                 "bulbus olfactorius"
@@ -14912,8 +14881,7 @@
                 "ion channel"
             ],
             "pt": [
-                "canal iônico",
-                "canal iónico"
+                "canal iônico [Br.]"
             ],
             "ga": [
                 "canal iónico"
@@ -15472,8 +15440,7 @@
                 "acquired character"
             ],
             "pt": [
-                "carácter adquirido",
-                "caráter adquirido"
+                "carácter adquirido [Pt.]"
             ],
             "ga": [
                 "carácter adquirido"
@@ -15492,8 +15459,7 @@
                 "congenital character"
             ],
             "pt": [
-                "carácter congênito",
-                "caráter congênito"
+                "carácter congênito [Pt.]"
             ],
             "ga": [
                 "carácter conxénito"
@@ -15512,8 +15478,7 @@
                 "inherited character"
             ],
             "pt": [
-                "carácter hereditário",
-                "caráter hereditário"
+                "carácter hereditário [Pt.]"
             ],
             "ga": [
                 "carácter hereditario"
@@ -15714,8 +15679,7 @@
                 "carcinogenesis"
             ],
             "pt": [
-                "carcinogênese",
-                "carcinogénese"
+                "carcinogênese [Br.]"
             ],
             "ga": [
                 "carcinoxénese"
@@ -16338,8 +16302,7 @@
                 "thyroid cartilage"
             ],
             "pt": [
-                "cartilagem tireóide",
-                "cartilagem tiróide"
+                "cartilagem tireóide [Br.]"
             ],
             "la": [
                 "cartilago thyroidea"
@@ -17833,8 +17796,7 @@
                 "central tendon of diaphragm"
             ],
             "pt": [
-                "centro frênico",
-                "centro frénico",
+                "centro frênico [Br.]",
                 "tendão central do diafragma"
             ],
             "la": [
@@ -17877,8 +17839,7 @@
                 "centromere"
             ],
             "pt": [
-                "centrômero",
-                "centrómero"
+                "centrômero [Br.]"
             ],
             "ga": [
                 "centrómero"
@@ -18117,8 +18078,7 @@
                 "cestode"
             ],
             "pt": [
-                "cestode",
-                "cestóide"
+                "cestode [Pt.]"
             ],
             "ga": [
                 "cestodo"
@@ -18334,8 +18294,7 @@
                 "hypovolemic shock"
             ],
             "pt": [
-                "choque hipovolêmico",
-                "choque hipovolémico"
+                "choque hipovolêmico [Br.]"
             ],
             "ga": [
                 "choque hipovolémico"
@@ -18996,8 +18955,7 @@
                 "systemic circulation"
             ],
             "pt": [
-                "circulação sistêmica",
-                "circulação sistémica"
+                "circulação sistêmica [Br.]"
             ],
             "ga": [
                 "circulación sistémica",
@@ -20331,7 +20289,7 @@
             ],
             "pt": [
                 "cloasma",
-                "panos"
+                "panos [pop.]"
             ],
             "ga": [
                 "cloasma",
@@ -20434,8 +20392,7 @@
                 "chloridorrhea"
             ],
             "pt": [
-                "cloridorréia",
-                "cloridorreia"
+                "cloridorréia [Br.]"
             ],
             "ga": [
                 "clorurorrea"
@@ -20659,10 +20616,8 @@
                 "codon"
             ],
             "pt": [
-                "codão",
-                "códon",
-                "trinca",
-                "tripleto"
+                "codão [Pt.]",
+                "trinca [Br.]"
             ],
             "ga": [
                 "codón",
@@ -20733,14 +20688,14 @@
         "traducao": {
             "es": [
                 "celoniquia",
-                "uña en cuchara"
+                "uña en cuchara [pop.]"
             ],
             "en": [
                 "koilonychia"
             ],
             "pt": [
                 "celoniquia",
-                "unha em colher"
+                "unha em colher [pop.]"
             ],
             "ga": [
                 "coiloniquia",
@@ -21006,8 +20961,7 @@
         ],
         "traducao": {
             "es": [
-                "collarín",
-                "collarín cervical"
+                "collarín [pop.]"
             ],
             "en": [
                 "cervical collar"
@@ -21628,8 +21582,7 @@
                 "anatomical neck"
             ],
             "pt": [
-                "colo anatômico",
-                "colo anatómico"
+                "colo anatômico [Br.]"
             ],
             "la": [
                 "collum anatomicum"
@@ -21846,12 +21799,10 @@
                 "colostomía"
             ],
             "en": [
-                "coloproctia",
-                "colostomy"
+                "coloproctia [arc.]"
             ],
             "pt": [
-                "coloproctia",
-                "colostomia"
+                "coloproctia [arc.]"
             ],
             "ga": [
                 "colostomía",
@@ -22127,8 +22078,7 @@
                 ""
             ],
             "en": [
-                "blackhead",
-                "comedo"
+                "blackhead [pop.]"
             ],
             "pt": [
                 "comedão"
@@ -23265,8 +23215,7 @@
                 "isometric contraction"
             ],
             "pt": [
-                "contração isométrica",
-                "contracção isométrica"
+                "contração isométrica [Br.]"
             ],
             "ga": [
                 "contracción isométrica"
@@ -23285,8 +23234,7 @@
                 "isotonic contraction"
             ],
             "pt": [
-                "contração isotônica",
-                "contracção isotônica"
+                "contração isotônica [Br.]"
             ],
             "ga": [
                 "contracción isotónica"
@@ -23325,8 +23273,7 @@
                 "contractility"
             ],
             "pt": [
-                "contractilidade",
-                "contratilidade"
+                "contractilidade [Pt.]"
             ],
             "ga": [
                 "contractilidade"
@@ -23345,8 +23292,7 @@
                 "contracture"
             ],
             "pt": [
-                "contractura",
-                "contratura"
+                "contractura [Pt.]"
             ],
             "ga": [
                 "contractura"
@@ -23424,8 +23370,7 @@
                 "birth control"
             ],
             "pt": [
-                "controle de natalidade",
-                "controlo de natalidade"
+                "controle de natalidade [Br.]"
             ],
             "ga": [
                 "control de natalidade"
@@ -23444,8 +23389,7 @@
                 "risk management"
             ],
             "pt": [
-                "controle de riscos",
-                "controlo de riscos",
+                "controle de riscos [Br.]",
                 "gestão de riscos"
             ],
             "ga": [
@@ -25364,8 +25308,7 @@
                 "chromosome"
             ],
             "pt": [
-                "cromossoma",
-                "cromossomo"
+                "cromossoma [Pt.]"
             ],
             "ga": [
                 "cromosoma"
@@ -25384,8 +25327,7 @@
                 "homologous chromosome"
             ],
             "pt": [
-                "cromossoma homólogo",
-                "cromossomo homólogo"
+                "cromossoma homólogo [Pt.]"
             ],
             "ga": [
                 "cromosoma homólogo"
@@ -25404,8 +25346,7 @@
                 "sex chromosome"
             ],
             "pt": [
-                "cromossoma sexual",
-                "cromossomo sexual"
+                "cromossoma sexual [Pt.]"
             ],
             "ga": [
                 "cromosoma sexual"
@@ -25462,8 +25403,7 @@
                 "chronic"
             ],
             "pt": [
-                "crônico",
-                "crónico"
+                "crônico [Br.]"
             ],
             "ga": [
                 "crónico -ca"
@@ -26124,8 +26064,8 @@
                 "little finger"
             ],
             "pt": [
-                "dedo meiminho",
-                "dedo mínimo"
+                "dedo meiminho [pop.]",
+                "mínimo"
             ],
             "la": [
                 "digitus minimus manus"
@@ -26152,7 +26092,7 @@
             ],
             "pt": [
                 "dedo médio",
-                "pai-de-todos"
+                "pai-de-todos [pop.]"
             ],
             "la": [
                 "digitus medius"
@@ -26362,8 +26302,7 @@
                 "deletion"
             ],
             "pt": [
-                "deleção",
-                "delecção"
+                "deleção [Br.]"
             ],
             "ga": [
                 "deleción"
@@ -26613,8 +26552,8 @@
                 "third molar tooth"
             ],
             "pt": [
-                "dente de siso",
-                "dente do juízo"
+                "dente de siso [pop.]",
+                "terceiro molar"
             ],
             "la": [
                 "dens molaris tertius"
@@ -26941,10 +26880,8 @@
                 "contact dermatitis"
             ],
             "pt": [
-                "dermatite de contacto",
-                "dermatite de contato",
-                "eczema de contacto",
-                "eczema de contato"
+                "dermatite de contacto [Pt.]",
+                "eczema de contacto [Pt.]"
             ],
             "ga": [
                 "dermatite de contacto",
@@ -28217,10 +28154,8 @@
                 "serodiagnosis"
             ],
             "pt": [
-                "diagnóstico serológico",
-                "diagnóstico sorológico",
-                "serodiagnóstico",
-                "sorodiagnóstico"
+                "diagnóstico serológico [Pt.]",
+                "serodiagnóstico [Pt.]"
             ],
             "ga": [
                 "diagnóstico serolóxico",
@@ -28316,8 +28251,7 @@
                 "diarrhea"
             ],
             "pt": [
-                "diarréia",
-                "diarreia"
+                "diarréia [Br.]"
             ],
             "ga": [
                 "diarrea",
@@ -28542,15 +28476,13 @@
         ],
         "traducao": {
             "es": [
-                "anhídrico carbónico",
-                "dióxido de carbono"
+                "anhídrico carbónico [arc.]"
             ],
             "en": [
                 "carbon dioxide"
             ],
             "pt": [
-                "anídrido carbónico",
-                "dióxido de carbono"
+                "anídrido carbónico [arc.]"
             ],
             "ga": [
                 "dióxido de carbono",
@@ -28689,8 +28621,7 @@
                 "disaccharide"
             ],
             "pt": [
-                "dissacarídeo",
-                "dissacárido"
+                "dissacarídeo [Br.]"
             ],
             "ga": [
                 "disacárido"
@@ -29240,8 +29171,7 @@
                 "paramenia"
             ],
             "pt": [
-                "dismenorréia",
-                "dismenorreia"
+                "dismenorréia [Br.]"
             ],
             "ga": [
                 "dismenorrea",
@@ -29396,8 +29326,7 @@
                 "dyspnea"
             ],
             "pt": [
-                "dispnéia",
-                "dispneia"
+                "dispnéia [Br.]"
             ],
             "ga": [
                 "dispnea"
@@ -29456,10 +29385,8 @@
                 "autonomic dysreflexia"
             ],
             "pt": [
-                "disreflexia autônoma",
-                "disreflexia autónoma",
-                "disreflexia autonômica",
-                "disreflexia autonómica"
+                "disreflexia autônoma [Br.]",
+                "disreflexia autonômica [Br.]"
             ],
             "ga": [
                 "disreflexia autónoma"
@@ -30109,8 +30036,7 @@
                 "dragee"
             ],
             "pt": [
-                "drágea",
-                "drageia"
+                "drágea [Br.]"
             ],
             "ga": [
                 "draxea"
@@ -30736,8 +30662,7 @@
                 "effectiveness"
             ],
             "pt": [
-                "efectividade",
-                "efetividade"
+                "efectividade [Pt.]"
             ],
             "ga": [
                 "efectividade"
@@ -30757,8 +30682,7 @@
                 "ceiling effect"
             ],
             "pt": [
-                "efeito de tecto",
-                "efeito de teto"
+                "efeito de tecto [Pt.]"
             ],
             "ga": [
                 "efecto de teito"
@@ -30777,8 +30701,7 @@
                 "piezoelectric effect"
             ],
             "pt": [
-                "efeito piezoelétrico",
-                "efeito piezoelétrico"
+                "efeito piezoelétrico [Br.]"
             ],
             "ga": [
                 "efecto piezoeléctrico"
@@ -30957,8 +30880,7 @@
                 "anatomical axis"
             ],
             "pt": [
-                "eixo anatômico",
-                "eixo anatómico"
+                "eixo anatômico [Br.]"
             ],
             "ga": [
                 "eixe anatómico"
@@ -31127,8 +31049,7 @@
                 "electrocardiography"
             ],
             "pt": [
-                "electrocardiografia",
-                "eletrocardiografia"
+                "electrocardiografia [Pt.]"
             ],
             "ga": [
                 "electrocardiografía"
@@ -31147,8 +31068,7 @@
                 "ecg unit"
             ],
             "pt": [
-                "electrocardiógrafo",
-                "eletrocardiógrafo"
+                "electrocardiógrafo [Pt.]"
             ],
             "ga": [
                 "electrocardiógrafo"
@@ -31167,8 +31087,7 @@
                 "electroshock"
             ],
             "pt": [
-                "electrochoque",
-                "eletrochoque"
+                "electrochoque [Pt.]"
             ],
             "ga": [
                 "electrochoque"
@@ -31187,8 +31106,7 @@
                 "electrosurgery"
             ],
             "pt": [
-                "electrocirurgia",
-                "eletrocirurgia"
+                "electrocirurgia [Pt.]"
             ],
             "ga": [
                 "electrocirurxía"
@@ -31207,8 +31125,7 @@
                 "electrocoagulation"
             ],
             "pt": [
-                "electrocoagulação",
-                "eletrocoagulação"
+                "electrocoagulação [Pt.]"
             ],
             "ga": [
                 "electrocoagulación"
@@ -31227,8 +31144,7 @@
                 "electrocochleography"
             ],
             "pt": [
-                "electrococleografia",
-                "eletrococleografia"
+                "electrococleografia [Pt.]"
             ],
             "ga": [
                 "electrococleografía"
@@ -31248,10 +31164,8 @@
                 "electrodiagnosis"
             ],
             "pt": [
-                "electrodiagnose",
-                "electrodiagnóstico",
-                "eletrodiagnose",
-                "eletrodiagnóstico"
+                "electrodiagnose [Pt.]",
+                "eletrodiagnose [Br.]"
             ],
             "ga": [
                 "electrodiagnose"
@@ -31270,8 +31184,7 @@
                 "electroencephalography"
             ],
             "pt": [
-                "electroencefalografia",
-                "eletroencefalografia"
+                "electroencefalografia [Pt.]"
             ],
             "ga": [
                 "electroencefalografía"
@@ -31290,8 +31203,7 @@
                 "electroencephalograph"
             ],
             "pt": [
-                "electroencefalógrafo",
-                "eletroencefalógrafo"
+                "electroencefalógrafo [Pt.]"
             ],
             "ga": [
                 "electroencefalógrafo"
@@ -31310,8 +31222,7 @@
                 "electrostimulation"
             ],
             "pt": [
-                "electroestimulação",
-                "eletroestimulação"
+                "electroestimulação [Pt.]"
             ],
             "ga": [
                 "electroestimulación"
@@ -31330,8 +31241,7 @@
                 "electrophysiologist"
             ],
             "pt": [
-                "electrofisiologista",
-                "eletrofisiologista"
+                "electrofisiologista [Pt.]"
             ],
             "ga": [
                 "electrofisiólogo -ga"
@@ -31350,8 +31260,7 @@
                 "electrophysiology"
             ],
             "pt": [
-                "electrofisiologia",
-                "eletrofisiologia"
+                "electrofisiologia [Pt.]"
             ],
             "ga": [
                 "electrofisioloxía"
@@ -31370,8 +31279,7 @@
                 "electrophoresis"
             ],
             "pt": [
-                "electroforese",
-                "eletroforese"
+                "electroforese [Pt.]"
             ],
             "ga": [
                 "electroforese"
@@ -31390,8 +31298,7 @@
                 "electrofulguration"
             ],
             "pt": [
-                "electrofulguração",
-                "eletrofulguração"
+                "electrofulguração [Pt.]"
             ],
             "ga": [
                 "electrofulguración"
@@ -31410,8 +31317,7 @@
                 "electrogustometry"
             ],
             "pt": [
-                "electrogustometria",
-                "eletrogustometria"
+                "electrogustometria [Pt.]"
             ],
             "ga": [
                 "electrogustometría"
@@ -31430,8 +31336,7 @@
                 "electrolyte"
             ],
             "pt": [
-                "electrólito",
-                "eletrólito"
+                "electrólito [Pt.]"
             ],
             "ga": [
                 "electrólito"
@@ -31450,8 +31355,7 @@
                 "electromyography"
             ],
             "pt": [
-                "electromiografia",
-                "eletromiografia"
+                "electromiografia [Pt.]"
             ],
             "ga": [
                 "electromiografía"
@@ -31470,8 +31374,7 @@
                 "electronarcosis"
             ],
             "pt": [
-                "electronarcose",
-                "eletronarcose"
+                "electronarcose [Pt.]; eletronarcose [Br.]"
             ],
             "ga": [
                 "electronarcose"
@@ -31490,8 +31393,7 @@
                 "electron-lucent"
             ],
             "pt": [
-                "eléctron-lucente",
-                "elétron-lucente"
+                "eléctron-lucente [Pt.]"
             ],
             "ga": [
                 "electronlucente"
@@ -31510,8 +31412,7 @@
                 "electrooculography"
             ],
             "pt": [
-                "electroculografia",
-                "eletroculografia"
+                "electroculografia [Pt.]"
             ],
             "ga": [
                 "electrooculografía"
@@ -31530,8 +31431,7 @@
                 "electrotherapeutics"
             ],
             "pt": [
-                "electroterapia",
-                "eletroterapia"
+                "electroterapia [Pt.]"
             ],
             "ga": [
                 "electroterapia"
@@ -31613,9 +31513,8 @@
                 "pregnancy"
             ],
             "pt": [
-                "embaraço",
-                "gestação",
-                "prenhez"
+                "embaraço [pop.]",
+                "gravidez"
             ],
             "ga": [
                 "embarazo",
@@ -32810,8 +32709,7 @@
         ],
         "traducao": {
             "es": [
-                "ATS",
-                "auxiliar técnico sanitario",
+                "ATS [arc.]",
                 ""
             ],
             "en": [
@@ -32905,8 +32803,7 @@
                 "congenital disease"
             ],
             "pt": [
-                "doença congênita",
-                "doença congénita"
+                "doença congênita [Br.]"
             ],
             "ga": [
                 "enfermidade conxénita"
@@ -33072,8 +32969,7 @@
                 "chronic granulomatous disease"
             ],
             "pt": [
-                "doença granulomatosa crônica",
-                "doença granulomatosa crónica"
+                "doença granulomatosa crônica [Br.]"
             ],
             "ga": [
                 "enfermidade granulomatosa crónica",
@@ -33275,8 +33171,7 @@
                 "chronic obstructive pulmonary disease"
             ],
             "pt": [
-                "doença pulmonar obstrutiva crônica",
-                "doença pulmonar obstrutiva crónica",
+                "doença pulmonar obstrutiva crônica [Br.]",
                 "DPOC (sg)"
             ],
             "ga": [
@@ -34812,8 +34707,7 @@
                 "water-electrolyte balance"
             ],
             "pt": [
-                "equilíbrio hidro-electrolítico",
-                "equilíbrio hidro-eletrolítico"
+                "equilíbrio hidro-electrolítico [Pt.]"
             ],
             "ga": [
                 "equilibrio hidroelectrolítico",
@@ -34827,12 +34721,10 @@
         ],
         "traducao": {
             "es": [
-                "cardenal",
-                "equimosis"
+                "cardenal [pop.]"
             ],
             "en": [
-                "bruising",
-                "ecchymosis"
+                "bruising [pop.]"
             ],
             "pt": [
                 "equimose"
@@ -34856,8 +34748,7 @@
                 "erection"
             ],
             "pt": [
-                "ereção",
-                "erecção"
+                "ereção [Br.]"
             ],
             "ga": [
                 "erección"
@@ -35094,8 +34985,7 @@
             ],
             "pt": [
                 "eritrocitose",
-                "policitémia",
-                "poliglobulia"
+                "policitémia [Pt.]"
             ],
             "ga": [
                 "eritrocitose",
@@ -35500,8 +35390,7 @@
                 "sclera"
             ],
             "pt": [
-                "branco do olho",
-                ""
+                "branco do olho [pop.]"
             ],
             "la": [
                 "sclera"
@@ -35918,8 +35807,7 @@
         ],
         "traducao": {
             "es": [
-                "; tensiômetro",
-                "tensiómetro"
+                "; tensiômetro [Br.]"
             ],
             "en": [
                 "sphygmomanometer"
@@ -38867,8 +38755,7 @@
                 "exon"
             ],
             "pt": [
-                "exão",
-                "exon"
+                "exão [Pt.]"
             ],
             "ga": [
                 "exón"
@@ -39428,8 +39315,7 @@
                 "causal factor"
             ],
             "pt": [
-                "factor causal",
-                "fator causal"
+                "factor causal [Pt.]"
             ],
             "ga": [
                 "factor causal"
@@ -39449,8 +39335,7 @@
                 "clotting factor"
             ],
             "pt": [
-                "factor de coagulação",
-                "fator de coagulação"
+                "factor de coagulação [Pt.]"
             ],
             "ga": [
                 "factor de coagulación"
@@ -39471,8 +39356,7 @@
                 "lurking variable"
             ],
             "pt": [
-                "factor de confusão",
-                "fator de confusão",
+                "factor de confusão [Pt.]",
                 "variável de confusão"
             ],
             "ga": [
@@ -39494,8 +39378,7 @@
                 "growth factor"
             ],
             "pt": [
-                "factor de crescimento",
-                "fator de crescimento"
+                "factor de crescimento [Pt.]"
             ],
             "ga": [
                 "factor de crecemento"
@@ -39516,8 +39399,7 @@
                 "TNF (sg)"
             ],
             "pt": [
-                "factor de necrose tumoral",
-                "fator de necrose tumoral",
+                "factor de necrose tumoral [Pt.]",
                 "FNT (sg)"
             ],
             "ga": [
@@ -39539,8 +39421,7 @@
                 "risk factor"
             ],
             "pt": [
-                "factor de risco",
-                "fator de risco"
+                "factor de risco [Pt.]"
             ],
             "ga": [
                 "factor de risco"
@@ -39559,8 +39440,7 @@
                 "facilitating factor"
             ],
             "pt": [
-                "factor facilitador",
-                "fator facilitador"
+                "factor facilitador [Pt.]"
             ],
             "ga": [
                 "factor facilitador"
@@ -39580,8 +39460,7 @@
                 "intrinsic factor"
             ],
             "pt": [
-                "factor intrínseco",
-                "fator intrínseco"
+                "factor intrínseco [Pt.]"
             ],
             "ga": [
                 "factor intrínseco"
@@ -39601,8 +39480,7 @@
                 "precipitating factor"
             ],
             "pt": [
-                "factor precipitante",
-                "fator precipitante"
+                "factor precipitante [Pt.]"
             ],
             "ga": [
                 "factor precipitante"
@@ -39621,8 +39499,7 @@
                 "predisposing factor"
             ],
             "pt": [
-                "factor predisponente",
-                "fator predisponente"
+                "factor predisponente [Pt.]"
             ],
             "ga": [
                 "factor predispoñente"
@@ -39641,10 +39518,8 @@
                 "protective factor"
             ],
             "pt": [
-                "factor protector",
-                "fator de segurança",
-                "fator de segurança",
-                "fator protetor"
+                "factor protector [Pt.]",
+                "fator de segurança [Pt.]"
             ],
             "ga": [
                 "factor protector",
@@ -39666,8 +39541,7 @@
                 "chemotactic factor"
             ],
             "pt": [
-                "factor quimiotáctico",
-                "fator quimiotático"
+                "factor quimiotáctico [Pt.]"
             ],
             "ga": [
                 "factor quimiotáctico"
@@ -39686,8 +39560,7 @@
                 "RF (sg)"
             ],
             "pt": [
-                "factor reumatóide",
-                "fator reumatóide",
+                "factor reumatóide [Pt.]",
                 "FR (sg)"
             ],
             "ga": [
@@ -40136,8 +40009,7 @@
         ],
         "traducao": {
             "es": [
-                "calentura",
-                "fiebre"
+                "calentura [pop.]"
             ],
             "en": [
                 "fever"
@@ -40186,7 +40058,7 @@
             ],
             "pt": [
                 "febre amarela",
-                "vómito negro"
+                "vómito negro [Pt.]"
             ],
             "ga": [
                 "febre amarela",
@@ -40466,8 +40338,7 @@
                 "on-off phenomenon"
             ],
             "pt": [
-                "fenômeno on-off",
-                "fenómeno on-off"
+                "fenômeno on-off [Br.]"
             ],
             "ga": [
                 "fenómeno on-off"
@@ -40702,8 +40573,7 @@
                 "reliability"
             ],
             "pt": [
-                "confiabilidade",
-                "fiabilidade"
+                "confiabilidade [Br.]"
             ],
             "ga": [
                 "fiabilidade"
@@ -40901,10 +40771,8 @@
                 "factor I"
             ],
             "pt": [
-                "factor I",
-                "fator I",
-                "fibrinogênio",
-                "fibrinogénio"
+                "factor I [Pt.]",
+                "fibrinogênio [Br.]"
             ],
             "ga": [
                 "fibrinóxeno",
@@ -41406,8 +41274,7 @@
                 "rectovaginal fistula"
             ],
             "pt": [
-                "fístula rectovaginal",
-                "fístula retovaginal"
+                "fístula rectovaginal [Pt.]"
             ],
             "ga": [
                 "fístula rectovaxinal"
@@ -42209,8 +42076,7 @@
                 "reaction formation"
             ],
             "pt": [
-                "formação reactiva",
-                "formação reativa"
+                "formação reactiva [Pt.]"
             ],
             "ga": [
                 "formación reactiva"
@@ -42704,7 +42570,7 @@
             ],
             "pt": [
                 "FE (sg)",
-                "fracção de ejecção"
+                "fracção de ejecção [Pt.]"
             ],
             "ga": [
                 "fracción de exección",
@@ -42724,8 +42590,7 @@
                 "filtration fraction"
             ],
             "pt": [
-                "fração de filtração",
-                "fracção de filtração"
+                "fração de filtração [Br.]"
             ],
             "ga": [
                 "fracción de filtración"
@@ -42746,8 +42611,7 @@
                 "etiologic fraction"
             ],
             "pt": [
-                "fração etiológica de risco",
-                "fracção etiológica de risco",
+                "fração etiológica de risco [Br.]",
                 "RAP (sg)"
             ],
             "ga": [
@@ -42770,8 +42634,7 @@
                 "fracture"
             ],
             "pt": [
-                "fractura",
-                "fratura"
+                "fractura [Pt.]"
             ],
             "ga": [
                 "fractura"
@@ -42883,15 +42746,13 @@
         ],
         "traducao": {
             "es": [
-                "eritema pernio",
-                "sabañón"
+                "eritema pernio [cult]"
             ],
             "en": [
                 "chilblain"
             ],
             "pt": [
-                "eritema pernio",
-                "frieira"
+                "eritema pernio [cult]"
             ],
             "ga": [
                 "frieira",
@@ -42993,16 +42854,14 @@
         ],
         "traducao": {
             "es": [
-                "fondo de ojo",
-                "fundoscopia"
+                "fondo de ojo [col.]"
             ],
             "en": [
                 "fundoscopy",
-                "fundus of the eye"
+                "fundus of the eye [col.]"
             ],
             "pt": [
-                "fundo de olho",
-                "fundoscopia"
+                "fundo de olho [col.]"
             ],
             "ga": [
                 "fundoscopia",
@@ -43142,8 +43001,7 @@
                 "galactorrhea"
             ],
             "pt": [
-                "galactorréia",
-                "galactorreia"
+                "galactorréia [Br.]"
             ],
             "ga": [
                 "galactorrea"
@@ -44012,8 +43870,7 @@
                 "parathyroid gland"
             ],
             "pt": [
-                "glândula paratireóide",
-                "glândula paratiróide"
+                "glândula paratireóide [Br.]"
             ],
             "la": [
                 "glandula parathyroidea"
@@ -44195,10 +44052,8 @@
                 "thyroid"
             ],
             "pt": [
-                "glândula tireóide",
-                "glândula tiróide",
-                "tireóide",
-                "tiróide"
+                "glândula tireóide [Br.]",
+                "tireóide [Br.]"
             ],
             "la": [
                 "glandula thyroidea"
@@ -44299,8 +44154,7 @@
                 "glucide"
             ],
             "pt": [
-                "glicídio",
-                "glícido"
+                "glicídio [Br.]"
             ],
             "ga": [
                 "glícido",
@@ -44384,8 +44238,7 @@
                 "gluconeogenesis"
             ],
             "pt": [
-                "gliconeogênese",
-                "gliconeogénese"
+                "gliconeogênese [Br.]"
             ],
             "ga": [
                 "gliconeoxénese"
@@ -44404,9 +44257,8 @@
                 "glycopeptide"
             ],
             "pt": [
-                "glicopeptídeo",
-                "glicopeptídio",
-                "glicopéptido"
+                "glicopeptídeo [Br.]",
+                "glicopéptido [Pt.]"
             ],
             "ga": [
                 "glicopéptido"
@@ -44463,9 +44315,8 @@
                 "cardiac glycoside"
             ],
             "pt": [
-                "glicosídeo cardíaco",
-                "glicosídio cardíaco",
-                "glicósido cardíaco"
+                "glicosídeo cardíaco [Br.]",
+                "glicósido cardíaco [Pt.]"
             ],
             "ga": [
                 "glicósido cardíaco"
@@ -44484,9 +44335,8 @@
                 "digitalis glycoside"
             ],
             "pt": [
-                "glicosídeo digitálico",
-                "glicosídio digitálico",
-                "glicósido digitálico"
+                "glicosídeo digitálico [Br.]",
+                "glicósido digitálico [Pt.]"
             ],
             "ga": [
                 "glicósido dixitálico"
@@ -44524,8 +44374,7 @@
                 "glycogenesis"
             ],
             "pt": [
-                "glicogênese",
-                "glicogénese"
+                "glicogênese [Br.]"
             ],
             "ga": [
                 "glicoxénese"
@@ -44544,8 +44393,7 @@
                 "glycogen"
             ],
             "pt": [
-                "glicogênio",
-                "glicogénio"
+                "glicogênio [Br.]"
             ],
             "ga": [
                 "glicóxeno"
@@ -44602,8 +44450,7 @@
                 "glycogen synthetase"
             ],
             "pt": [
-                "glicogênio-sintetase",
-                "glicogénio- sintetase"
+                "glicogênio-sintetase [Br.]"
             ],
             "ga": [
                 "glicóxeno-sintetase"
@@ -44622,8 +44469,7 @@
                 "glucogenogenesis"
             ],
             "pt": [
-                "glicogenogênese",
-                "glicogenogénese"
+                "glicogenogênese [Br.]"
             ],
             "ga": [
                 "glicoxenoxénese"
@@ -45122,10 +44968,8 @@
                 "arthrometer"
             ],
             "pt": [
-                "artrômetro",
-                "artrómetro",
-                "goniômetro",
-                "goniómetro"
+                "artrômetro [Br.]",
+                "goniômetro [Br.]"
             ],
             "ga": [
                 "goniómetro",
@@ -45709,10 +45553,8 @@
                 "hematemesis"
             ],
             "pt": [
-                "hematêmese",
-                "hematémese",
-                "vômito de sangue",
-                "vómito de sangue"
+                "hematêmese [Br.]",
+                "vômito de sangue [Br.]"
             ],
             "ga": [
                 "hematemese",
@@ -46187,7 +46029,7 @@
             ],
             "pt": [
                 "doença de Marchiafava-Micheli",
-                "hemoglobinúria paroxística noturna"
+                "hemoglobinúria paroxística noturna [Br.]"
             ],
             "ga": [
                 "hemoglobinuria paroxística nocturna",
@@ -46303,8 +46145,7 @@
                 "hemoperitoneum"
             ],
             "pt": [
-                "hemoperitoneu",
-                "hemoperitônio"
+                "hemoperitoneu [Pt.]"
             ],
             "ga": [
                 "hemoperitoneo"
@@ -46397,8 +46238,7 @@
         ],
         "traducao": {
             "es": [
-                "almorrana",
-                "hemorroide"
+                "almorrana [pop.]"
             ],
             "en": [
                 "haemorrhoid"
@@ -46813,8 +46653,7 @@
                 "autosomal inheritance"
             ],
             "pt": [
-                "herança autossômica",
-                "herança autossómica"
+                "herança autossômica [Br.]"
             ],
             "ga": [
                 "herdanza autosómica"
@@ -46833,8 +46672,7 @@
                 "codominant autosomal inheritance"
             ],
             "pt": [
-                "herança autossômica codominante",
-                "herança autossómica codominante"
+                "herança autossômica codominante [Br.]"
             ],
             "ga": [
                 "herdanza autosómica codominante"
@@ -46853,8 +46691,7 @@
                 "autosomal dominant inheritance"
             ],
             "pt": [
-                "herança autossômica dominante",
-                "herança autossómica dominante"
+                "herança autossômica dominante [Br.]; herança autossómica dominante [Pt.]"
             ],
             "ga": [
                 "herdanza autosómica dominante"
@@ -46873,8 +46710,7 @@
                 "autosomal recessive inheritance"
             ],
             "pt": [
-                "herdança autossômica recessiva",
-                "herança autossómica recessiva"
+                "herdança autossômica recessiva [Br.]; herança autossómica recessiva [Pt.]"
             ],
             "ga": [
                 "herdanza autosómica recesiva"
@@ -46932,9 +46768,7 @@
                 "extrachromosomal inheritance"
             ],
             "pt": [
-                "herança extracromossômica",
-                "herança extracromossómica",
-                "herança mitocondrial"
+                "herança extracromossômica [Br.]; herança extracromossómica [Pt.]"
             ],
             "ga": [
                 "herdanza mitocondrial",
@@ -46955,7 +46789,7 @@
             ],
             "pt": [
                 "herança mendeliana",
-                "herança monogénica"
+                "herança monogénica [Pt.]"
             ],
             "ga": [
                 "herdanza monoxénica",
@@ -46975,8 +46809,7 @@
                 "multifactorial inheritance"
             ],
             "pt": [
-                "herança multifactorial",
-                "herança multifatorial"
+                "herança multifactorial [Pt.]"
             ],
             "ga": [
                 "herdanza multifactorial"
@@ -46995,8 +46828,7 @@
                 "polygenic inheritance"
             ],
             "pt": [
-                "herança poligênica",
-                "herança poligénica"
+                "herança poligênica [Br.]; herança poligénica"
             ],
             "ga": [
                 "herdanza polixénica"
@@ -47408,8 +47240,7 @@
         ],
         "traducao": {
             "es": [
-                "culebrilla",
-                "herpes zóster"
+                "culebrilla [pop.]"
             ],
             "en": [
                 "herpes zoster"
@@ -48004,8 +47835,7 @@
                 "hydrogen"
             ],
             "pt": [
-                "hidrogênio",
-                "hidrogénio"
+                "hidrogênio [Br.]"
             ],
             "ga": [
                 "hidróxeno",
@@ -48045,10 +47875,8 @@
                 "hydroxyl"
             ],
             "pt": [
-                "hidroxila",
-                "hidroxilo",
-                "oxidrila",
-                "oxidrilo"
+                "hidroxila [Br.]",
+                "oxidrila [Br.]"
             ],
             "ga": [
                 "hidroxilo"
@@ -48363,8 +48191,7 @@
                 "hyperemesis"
             ],
             "pt": [
-                "hiperêmese",
-                "hiperémese"
+                "hiperêmese [Br.]"
             ],
             "ga": [
                 "hiperemese"
@@ -48773,8 +48600,7 @@
                 "hyperparathyroidism"
             ],
             "pt": [
-                "hiperparatireoidismo",
-                "hiperparatiroidismo"
+                "hiperparatireoidismo [Br.]"
             ],
             "ga": [
                 "hiperparatiroidismo"
@@ -48851,8 +48677,7 @@
                 "congenital adrenal hyperplasia"
             ],
             "pt": [
-                "hiperplasia supra-renal congénita",
-                "hiperplasia supra-renal congênita"
+                "hiperplasia supra-renal congénita [Pt.]"
             ],
             "ga": [
                 "hiperplasia suprarrenal conxénita"
@@ -48871,8 +48696,7 @@
                 "hyperpnea"
             ],
             "pt": [
-                "hiperpnéia",
-                "hiperpneia"
+                "hiperpnéia [Br.]"
             ],
             "ga": [
                 "hiperpnea"
@@ -48951,10 +48775,8 @@
                 "BHR (sg)"
             ],
             "pt": [
-                "hiper-reactividade brônquica",
-                "hiperreactividade brônquica",
-                "hiper-reatividade brônquica",
-                "HRB (sg)"
+                "hiper-reactividade brônquica [Br.]",
+                "hiper-reatividade brônquica [Br.]"
             ],
             "ga": [
                 "hiperreactividade bronquial",
@@ -49874,8 +49696,7 @@
                 "hypoparathyroidism"
             ],
             "pt": [
-                "hipoparatireoidismo",
-                "hipoparatiroidismo"
+                "hipoparatireoidismo [Br.]"
             ],
             "ga": [
                 "hipoparatiroidismo"
@@ -49970,8 +49791,7 @@
                 "hypopnea"
             ],
             "pt": [
-                "hipopnéia",
-                "hipopneia"
+                "hipopnéia [Br.]"
             ],
             "ga": [
                 "hipopnea"
@@ -50379,7 +50199,7 @@
         "traducao": {
             "es": [
                 "histerectomía",
-                "vaciado"
+                "vaciado [pop.]"
             ],
             "en": [
                 "hysterectomy"
@@ -50741,8 +50561,7 @@
                 "medical history"
             ],
             "pt": [
-                "prontuário do paciente",
-                "prontuário médico",
+                "prontuário do paciente [Br.]",
                 "registo clínico"
             ],
             "ga": [
@@ -50862,8 +50681,7 @@
                 "hormone"
             ],
             "pt": [
-                "hormona",
-                "hormônio"
+                "hormona [Pt.]"
             ],
             "ga": [
                 "hormona"
@@ -50888,7 +50706,7 @@
             "pt": [
                 "ACTH (sg)",
                 "corticotropina",
-                "hormônio adrenocorticotrópico"
+                "hormônio adrenocorticotrópico [Br.]"
             ],
             "ga": [
                 "hormona adrenocorticotrópica",
@@ -50914,8 +50732,7 @@
             ],
             "pt": [
                 "ADH (sg)",
-                "hormônio antidiurético",
-                "vasopressina"
+                "hormônio antidiurético [Br.]"
             ],
             "ga": [
                 "hormona antidiurética",
@@ -50938,7 +50755,7 @@
             ],
             "pt": [
                 "GH (sg)",
-                "hormônio do crescimento"
+                "hormônio do crescimento [Br.]"
             ],
             "ga": [
                 "hormona do crecemento",
@@ -50961,8 +50778,7 @@
                 "TSH (sg)"
             ],
             "pt": [
-                "hormona estimulante da tiróide",
-                "hormônio estimulante da tiróide",
+                "hormona estimulante da tiróide [Pt.]",
                 "tirotrofina",
                 "TSH (sg)"
             ],
@@ -50986,8 +50802,7 @@
                 "melanocyte stimulating hormone"
             ],
             "pt": [
-                "hormona melanócito-estimulante",
-                "hormônio melanócito-"
+                "hormona melanócito-estimulante [Pt.]"
             ],
             "ga": [
                 "hormona estimuladora do melanocito",
@@ -51034,7 +50849,7 @@
             ],
             "pt": [
                 "GHRH (sg)",
-                "hormônio liberador do hormônio do crescimento"
+                "hormônio liberador do hormônio do crescimento [Br.]"
             ],
             "ga": [
                 "hormona liberadora da hormona do crecemento",
@@ -51056,7 +50871,7 @@
             ],
             "pt": [
                 "CRH (sg)",
-                "hormônio liberador de corticotropina"
+                "hormônio liberador de corticotropina [Br.]"
             ],
             "ga": [
                 "hormona liberadora de corticotropina",
@@ -51078,7 +50893,7 @@
             ],
             "pt": [
                 "GnrH (sg)",
-                "hormônio liberador de gonadotropina"
+                "hormônio liberador de gonadotropina [Br.]"
             ],
             "ga": [
                 "hormona liberadora de gonadotropina",
@@ -51100,7 +50915,7 @@
             ],
             "pt": [
                 "CRH (sg)",
-                "hormônio liberador de tirotropina"
+                "hormônio liberador de tirotropina [Br.]"
             ],
             "ga": [
                 "hormona liberadora de tirotropina",
@@ -51115,16 +50930,14 @@
         ],
         "traducao": {
             "es": [
-                "[Br.]; hormônio luteinizante",
-                "ICSH (sg); LH (sg)"
+                "[Br.]; hormônio luteinizante [Br.]; ICSH (sg); LH (sg)"
             ],
             "en": [
                 "ICSH (sg)",
                 "LH (sg)"
             ],
             "pt": [
-                "hormona estimulante das células intersticiais",
-                "hormona luteinizante",
+                "hormona estimulante das células intersticiais [Pt]",
                 "hormônio"
             ],
             "ga": [
@@ -51150,10 +50963,8 @@
                 "PTH (sg)"
             ],
             "pt": [
-                "hormona paratiroideia",
-                "hormônio da paratireóide",
-                "paratormona",
-                "paratormônio",
+                "hormona paratiroideia [Pt.]",
+                "paratormona [Pt.]",
                 "PTH (sg)"
             ],
             "ga": [
@@ -51920,15 +51731,13 @@
         ],
         "traducao": {
             "es": [
-                "disfunción eréctil",
-                "impotencia"
+                "disfunción eréctil [cult.]"
             ],
             "en": [
                 "erectile dysfunction"
             ],
             "pt": [
-                "disfunção eréctil",
-                "disfunção erétil",
+                "disfunção eréctil [Pt.]",
                 "impotência"
             ],
             "ga": [
@@ -51991,8 +51800,7 @@
                 "inactivation"
             ],
             "pt": [
-                "inactivação",
-                "inativação"
+                "inactivação [Pt.]"
             ],
             "ga": [
                 "inactivación"
@@ -52011,8 +51819,7 @@
                 "X-chromosome inactivation"
             ],
             "pt": [
-                "inactivação do cromossoma X",
-                "inativação do cromossomo X"
+                "inactivação do cromossoma X [Pt.]"
             ],
             "ga": [
                 "inactivación do cromosoma X"
@@ -52175,7 +51982,7 @@
             ],
             "pt": [
                 "incontinência verbal",
-                "logorreia"
+                "logorreia [Pt.]"
             ],
             "ga": [
                 "incontinencia verbal",
@@ -52639,8 +52446,7 @@
                 "systemic infection"
             ],
             "pt": [
-                "infecção sistêmica",
-                "infecção sistémica"
+                "infecção sistêmica [Br.]"
             ],
             "ga": [
                 "infección sistémica"
@@ -52896,8 +52702,7 @@
                 "carbonic anhydrase inhibitor"
             ],
             "pt": [
-                "inibidor da anidrase carbônica",
-                "inibidor da anidrase carbónica"
+                "inibidor da anidrase carbônica [Br.]"
             ],
             "ga": [
                 "inhibidor da anhidrase carbónica"
@@ -53133,7 +52938,7 @@
             ],
             "pt": [
                 "COXIB (sg)",
-                "inibidor seletivo da ciclooxigenase"
+                "inibidor seletivo da ciclooxigenase [Br.]"
             ],
             "ga": [
                 "inhibidor selectivo da cicloosixenase",
@@ -53694,8 +53499,7 @@
                 "insecticide"
             ],
             "pt": [
-                "insecticida",
-                "inseticida"
+                "insecticida [Pt.]"
             ],
             "ga": [
                 "insecticida"
@@ -53753,8 +53557,7 @@
                 "inspection"
             ],
             "pt": [
-                "inspeção",
-                "inspecção"
+                "inspeção [Br.]"
             ],
             "ga": [
                 "inspección"
@@ -54002,8 +53805,7 @@
                 "chronic renal failure"
             ],
             "pt": [
-                "insuficiência renal crônica",
-                "insuficiência renal crónica"
+                "insuficiência renal crônica [Br.]"
             ],
             "ga": [
                 "insuficiencia renal crónica"
@@ -54214,10 +54016,8 @@
                 "drug-drug interaction"
             ],
             "pt": [
-                "interação",
-                "interação medicamentosa",
-                "interacção",
-                "interacção medicamentosa"
+                "interação [Br.]",
+                "interacção [Pt.]"
             ],
             "ga": [
                 "interacción",
@@ -54558,8 +54358,7 @@
                 "intron"
             ],
             "pt": [
-                "intrão",
-                "íntron"
+                "intrão [Pt.]"
             ],
             "ga": [
                 "intrón"
@@ -54639,8 +54438,7 @@
                 "injection"
             ],
             "pt": [
-                "injeção",
-                "injecção"
+                "injeção [Br.]"
             ],
             "ga": [
                 "inxección"
@@ -54719,8 +54517,7 @@
                 "ion"
             ],
             "pt": [
-                "ião",
-                "íon"
+                "ião [Pt.]"
             ],
             "ga": [
                 "ión"
@@ -54935,8 +54732,7 @@
                 "isochromosome"
             ],
             "pt": [
-                "isocromossoma",
-                "isocromossomo"
+                "isocromossoma [Pt.]"
             ],
             "ga": [
                 "isocromosoma"
@@ -55015,8 +54811,7 @@
                 "isomer"
             ],
             "pt": [
-                "isômero",
-                "isómero"
+                "isômero [Br.]"
             ],
             "ga": [
                 "isómero"
@@ -56851,8 +56646,7 @@
                 "leukorrhea"
             ],
             "pt": [
-                "leucorréia",
-                "leucorreia"
+                "leucorréia [Br.]"
             ],
             "ga": [
                 "leucorrea"
@@ -58332,8 +58126,7 @@
                 "lipopolysaccharide"
             ],
             "pt": [
-                "lipopolissacarídeo",
-                "lipopolissacárido"
+                "lipopolissacarídeo [Br.]"
             ],
             "ga": [
                 "lipopolisacárido"
@@ -59645,8 +59438,7 @@
                 "macrolide"
             ],
             "pt": [
-                "macrolídeo",
-                "macrólido"
+                "macrolídeo [Br.]"
             ],
             "ga": [
                 "macrólido"
@@ -59805,7 +59597,7 @@
             ],
             "pt": [
                 "mau pareamento",
-                "pareamento incorreto"
+                "pareamento incorreto [Br.]"
             ],
             "ga": [
                 "malemparellamento"
@@ -60874,8 +60666,7 @@
         ],
         "traducao": {
             "es": [
-                "comadrón",
-                "matrón"
+                "comadrón [pop.]"
             ],
             "en": [
                 "midwife"
@@ -61209,8 +61000,8 @@
         "var": " medicina de familia",
         "traducao": {
             "es": [
-                "medicina de cabecera",
-                "medicina de familia"
+                "medicina de cabecera [arc.]",
+                "medicina familiar"
             ],
             "en": [
                 "family medicine"
@@ -61386,8 +61177,7 @@
         ],
         "traducao": {
             "es": [
-                "médico de cabeceira",
-                "médico de familia"
+                "médico de cabeceira [pop.]"
             ],
             "en": [
                 "family physician"
@@ -61679,8 +61469,7 @@
                 "megarectum"
             ],
             "pt": [
-                "megarecto",
-                "megarreto"
+                "megarecto [Pt.]"
             ],
             "ga": [
                 "megarrecto"
@@ -62382,8 +62171,7 @@
                 "menstruation"
             ],
             "pt": [
-                "menorréia",
-                "menorreia",
+                "menorréia [Br.]",
                 "menstruação"
             ],
             "ga": [
@@ -62725,8 +62513,7 @@
                 "methyl"
             ],
             "pt": [
-                "metila",
-                "metilo"
+                "metila [Br.]"
             ],
             "ga": [
                 "metilo"
@@ -63014,8 +62801,7 @@
                 "microdeletion"
             ],
             "pt": [
-                "microdeleção",
-                "microdelecção"
+                "microdeleção [Br.]"
             ],
             "ga": [
                 "microdeleción"
@@ -63244,8 +63030,7 @@
                 "electron microscope"
             ],
             "pt": [
-                "microscópio electrónico",
-                "microscópio eletrónico"
+                "microscópio electrónico [Pt.]"
             ],
             "ga": [
                 "microscopio electrónico"
@@ -64766,8 +64551,7 @@
                 "monosaccharide"
             ],
             "pt": [
-                "monossacarídeo",
-                "monossacárido"
+                "monossacarídeo [Br.]"
             ],
             "ga": [
                 "monosacárido"
@@ -64953,15 +64737,13 @@
         ],
         "traducao": {
             "es": [
-                "exitus",
-                "muerte"
+                "exitus [cult.]"
             ],
             "en": [
                 "death"
             ],
             "pt": [
-                "exitus",
-                "morte"
+                "exitus [cult.]"
             ],
             "ga": [
                 "morte",
@@ -65141,8 +64923,7 @@
                 "motoneuron"
             ],
             "pt": [
-                "motoneurônio",
-                "motoneurónio"
+                "motoneurônio [Br.]"
             ],
             "ga": [
                 "motoneurona"
@@ -65467,8 +65248,7 @@
                 "abductor pollicis brevis muscle"
             ],
             "pt": [
-                "músculo abductor curto do polegar",
-                "músculo abdutor curto do polegar"
+                "músculo abductor curto do polegar [Pt.]"
             ],
             "la": [
                 "musculus abductor pollicis brevis"
@@ -65490,8 +65270,7 @@
                 "abductor hallucis muscle"
             ],
             "pt": [
-                "músculo abductor do hálux",
-                "músculo abdutor do hálux"
+                "músculo abductor do hálux [Pt.]"
             ],
             "la": [
                 "musculus abductor hallucis"
@@ -65513,8 +65292,7 @@
                 "abductor digiti minimi muscle"
             ],
             "pt": [
-                "músculo abductor do dedo mínimo",
-                "músculo abdutor do dedo mínimo"
+                "músculo abductor do dedo mínimo [Pt.]"
             ],
             "la": [
                 "musculus abductor digiti minimi"
@@ -65536,8 +65314,7 @@
                 "abductor pollicis longus muscle"
             ],
             "pt": [
-                "músculo abductor longo do polegar",
-                "músculo abdutor longo do polegar"
+                "músculo abductor longo do polegar [Pt.]"
             ],
             "la": [
                 "musculus abductor pollicis longus"
@@ -65581,8 +65358,7 @@
                 "adductor hallucis muscle"
             ],
             "pt": [
-                "músculo aductor do hálux",
-                "músculo adutor do hálux"
+                "músculo aductor do hálux [Pt.]"
             ],
             "la": [
                 "musculus adductor hallucis"
@@ -65604,8 +65380,7 @@
                 "adductor pollicis muscle"
             ],
             "pt": [
-                "músculo aductor do polegar",
-                "músculo adutor do polegar"
+                "músculo aductor do polegar [Pt.]"
             ],
             "la": [
                 "musculus adductor pollicis"
@@ -65671,8 +65446,7 @@
                 "anconeus muscle"
             ],
             "pt": [
-                "músculo ancôneo",
-                "músculo ancóneo"
+                "músculo ancôneo [Br.]"
             ],
             "la": [
                 "musculus anconeus"
@@ -66530,8 +66304,7 @@
                 "sternothyroid"
             ],
             "pt": [
-                "músculo esternotireóideo",
-                "músculo esternotiroideo"
+                "músculo esternotireóideo [Br.]"
             ],
             "la": [
                 "musculus sternothyroideus"
@@ -68351,10 +68124,8 @@
                 "puborectalis muscle"
             ],
             "pt": [
-                "músculo pubo-rectal",
-                "músculo pubo-retal",
-                "músculo puborrectal",
-                "músculo puborretal"
+                "músculo pubo-rectal [Pt.]",
+                "músculo puborrectal [Pt.]"
             ],
             "la": [
                 "musculus puborectalis"
@@ -68398,8 +68169,7 @@
                 "rectus capitis anterior muscle"
             ],
             "pt": [
-                "músculo recto anterior da cabeça",
-                "músculo reto anterior da cabeça"
+                "músculo recto anterior da cabeça [Pt.]"
             ],
             "la": [
                 "musculus rectus capitis anterior"
@@ -68423,10 +68193,8 @@
                 "rectus abdominis"
             ],
             "pt": [
-                "músculo recto abdominal",
-                "músculo recto do abdómen",
-                "músculo reto abdominal",
-                "músculo reto do abdômen"
+                "músculo recto abdominal [Pt.]",
+                "músculo reto abdominal [Br.]"
             ],
             "la": [
                 "musculus rectus abdominis"
@@ -68450,10 +68218,8 @@
                 "rectus muscle of thigh"
             ],
             "pt": [
-                "músculo recto anterior",
-                "músculo recto femoral",
-                "músculo reto anterior",
-                "músculo reto femoral"
+                "músculo recto anterior [Pt.]",
+                "músculo reto anterior [Br.]"
             ],
             "la": [
                 "musculus rectus femoris"
@@ -68476,8 +68242,7 @@
                 "inferior rectus"
             ],
             "pt": [
-                "músculo recto inferior",
-                "músculo recto inferior"
+                "músculo recto inferior [Br.]"
             ],
             "la": [
                 "musculus rectus inferior"
@@ -68502,8 +68267,7 @@
                 "musculus rectus lateralis"
             ],
             "pt": [
-                "músculo recto lateral",
-                "músculo reto lateral"
+                "músculo recto lateral [Pt.]"
             ],
             "ga": [
                 "músculo recto lateral"
@@ -68525,8 +68289,7 @@
                 "musculus rectus capitis lateralis"
             ],
             "pt": [
-                "músculo recto lateral da cabeça",
-                "músculo reto lateral da cabeça"
+                "músculo recto lateral da cabeça [Pt.]"
             ],
             "ga": [
                 "músculo recto lateral da cabeza"
@@ -68545,8 +68308,7 @@
                 "medial rectus"
             ],
             "pt": [
-                "músculo recto medial",
-                "músculo reto medial"
+                "músculo recto medial [Pt.]"
             ],
             "la": [
                 "musculus rectus medialis"
@@ -68568,8 +68330,7 @@
                 "rectus capitis posterior major"
             ],
             "pt": [
-                "músculo recto posterior maior da cabeça",
-                "músculo reto posterior maior da cabeça"
+                "músculo recto posterior maior da cabeça [Pt.]"
             ],
             "la": [
                 "musculus rectus capitis posterior major"
@@ -68591,8 +68352,7 @@
                 "rectus capitis posterior minor"
             ],
             "pt": [
-                "músculo recto posterior menor da cabeça",
-                "posterior menor da cabeça"
+                "músculo recto posterior menor da cabeça [Pt.]músculo reto"
             ],
             "la": [
                 "musculus rectus capitis posterior minor"
@@ -68614,8 +68374,7 @@
                 "superior rectus"
             ],
             "pt": [
-                "músculo recto superior",
-                "músculo reto superior"
+                "músculo recto superior [Pt.]"
             ],
             "la": [
                 "musculus rectus superior"
@@ -69106,8 +68865,7 @@
                 "transversus abdominis"
             ],
             "pt": [
-                "músculo transverso do abdômen",
-                "músculo transverso do abdómen"
+                "músculo transverso do abdômen [Br.]"
             ],
             "la": [
                 "musculus transversus abdominis"
@@ -69315,8 +69073,7 @@
                 "inferior gemellus"
             ],
             "pt": [
-                "músculo gêmeo inferior",
-                "músculo gémeo inferior"
+                "músculo gêmeo inferior [Br.]"
             ],
             "la": [
                 "musculus gemellus inferior"
@@ -69339,8 +69096,7 @@
                 "superior gemellus"
             ],
             "pt": [
-                "músculo gêmeo superior",
-                "músculo gémeo superior"
+                "músculo gêmeo superior [Br.]"
             ],
             "la": [
                 "musculus gemellus superior"
@@ -70037,8 +69793,7 @@
                 "nephron"
             ],
             "pt": [
-                "néfron",
-                "nefrónio"
+                "néfron [Br.]"
             ],
             "ga": [
                 "nefrón"
@@ -70703,8 +70458,7 @@
                 "phrenic nerve"
             ],
             "pt": [
-                "nervo frênico",
-                "nervo frénico"
+                "nervo frênico [Br.]"
             ],
             "la": [
                 "nervus phrenicus"
@@ -71330,8 +71084,7 @@
                 "cranial nerve V"
             ],
             "pt": [
-                "nervo trigêmeo",
-                "nervo trigémeo",
+                "nervo trigêmeo [Br.]",
                 "V par craniano"
             ],
             "la": [
@@ -71499,8 +71252,7 @@
                 "measurement bias"
             ],
             "pt": [
-                "viés de aferição",
-                "viés de medição"
+                "viés de aferição [Br.]"
             ],
             "ga": [
                 "nesgo de medición"
@@ -71558,8 +71310,7 @@
                 "selection bias"
             ],
             "pt": [
-                "viés de seleção",
-                "viés de selecção"
+                "viés de seleção [Br.]"
             ],
             "ga": [
                 "nesgo de selección"
@@ -72031,8 +71782,7 @@
                 "neuron"
             ],
             "pt": [
-                "neurônio",
-                "neurónio"
+                "neurônio [Br]"
             ],
             "ga": [
                 "neurona"
@@ -72460,8 +72210,7 @@
                 "nitrogen"
             ],
             "pt": [
-                "nitrogênio",
-                "nitrogénio"
+                "nitrogênio [Br.]"
             ],
             "ga": [
                 "nitróxeno",
@@ -72912,8 +72661,7 @@
                 "nucleoside"
             ],
             "pt": [
-                "nucleosídeo",
-                "nucleósido"
+                "nucleosídeo [Br.]"
             ],
             "ga": [
                 "nucleósido"
@@ -72932,8 +72680,7 @@
                 "nucleotide"
             ],
             "pt": [
-                "nucleotídeo",
-                "nucleótido"
+                "nucleotídeo [Br.]"
             ],
             "ga": [
                 "nucleótido"
@@ -73261,8 +73008,7 @@
         ],
         "traducao": {
             "es": [
-                "dentista",
-                "odontólogo"
+                "dentista [pop.]"
             ],
             "en": [
                 "dentist"
@@ -73545,8 +73291,7 @@
                 "olfaction"
             ],
             "pt": [
-                "olfação",
-                "olfacção"
+                "olfação [Br.]"
             ],
             "ga": [
                 "olfacción"
@@ -73565,8 +73310,7 @@
                 "smell"
             ],
             "pt": [
-                "olfacto",
-                "olfato"
+                "olfacto [Pt.]; olfato [Br.]"
             ],
             "la": [
                 "olfactus"
@@ -73684,8 +73428,7 @@
                 "oligomenorrhea"
             ],
             "pt": [
-                "oligomenorréia",
-                "oligomenorreia"
+                "oligomenorréia [Br.]"
             ],
             "ga": [
                 "oligomenorrea"
@@ -74789,8 +74532,7 @@
                 "orthopnea"
             ],
             "pt": [
-                "ortopnéia",
-                "ortopneia"
+                "ortopnéia [Br.]"
             ],
             "ga": [
                 "ortopnea"
@@ -74848,8 +74590,7 @@
                 "oxygen"
             ],
             "pt": [
-                "oxigênio",
-                "oxigénio"
+                "oxigênio [Br.]"
             ],
             "ga": [
                 "osíxeno",
@@ -76252,7 +75993,7 @@
             ],
             "pt": [
                 "osteossarcoma",
-                "sarcoma osteogénico"
+                "sarcoma osteogénico [Pt.]"
             ],
             "ga": [
                 "osteosarcoma",
@@ -76522,8 +76263,7 @@
                 "otorrhea"
             ],
             "pt": [
-                "otorréia",
-                "otorreia"
+                "otorréia [Br.]"
             ],
             "ga": [
                 "otorrea"
@@ -76537,8 +76277,7 @@
         "var": " otorrino [col.]",
         "traducao": {
             "es": [
-                "otorrino",
-                "otorrinolaringólogo"
+                "otorrino [pop.]"
             ],
             "en": [
                 "otolaryngologist"
@@ -76924,7 +76663,7 @@
             ],
             "pt": [
                 "abóbada palatina",
-                "teto da boca"
+                "teto da boca [pop.]"
             ],
             "la": [
                 "palatum"
@@ -77096,7 +76835,7 @@
             ],
             "pt": [
                 "panarício",
-                "unheiro"
+                "unheiro [pop.]"
             ],
             "ga": [
                 "panaricio",
@@ -77926,8 +77665,7 @@
                 "parathyroidectomy"
             ],
             "pt": [
-                "paratireoidectomia",
-                "paratiroidectomia"
+                "paratireoidectomia [Br.]"
             ],
             "ga": [
                 "paratiroidectomía"
@@ -78134,16 +77872,13 @@
         ],
         "traducao": {
             "es": [
-                "paperas",
-                "parotiditis"
+                "paperas [pop.]"
             ],
             "en": [
-                "mumps",
-                "parotitis"
+                "mumps [pop.]"
             ],
             "pt": [
-                "caxumba",
-                "papeira",
+                "caxumba [Br.] [pop.]",
                 "parotidite"
             ],
             "ga": [
@@ -78263,8 +77998,7 @@
                 "pathognomonic"
             ],
             "pt": [
-                "patognomônico",
-                "patognomónico"
+                "patognomônico [Br.]"
             ],
             "ga": [
                 "patognomónico -ca"
@@ -78606,8 +78340,7 @@
         ],
         "traducao": {
             "es": [
-                "mal de la rosa",
-                "pelagra"
+                "mal de la rosa [arc.]"
             ],
             "en": [
                 "pellagra"
@@ -78646,15 +78379,13 @@
         ],
         "traducao": {
             "es": [
-                "bacinete",
-                "pelvis"
+                "bacinete [arc.]"
             ],
             "en": [
                 "pelvis"
             ],
             "pt": [
-                "bacinete",
-                "pelve"
+                "bacinete [arc.]"
             ],
             "la": [
                 "pelvis"
@@ -78881,8 +78612,7 @@
                 "pepsinogen"
             ],
             "pt": [
-                "pepsinogênio",
-                "pepsinógeno"
+                "pepsinogênio [Br.]"
             ],
             "ga": [
                 "pepsinóxeno",
@@ -78921,9 +78651,8 @@
                 "peptide"
             ],
             "pt": [
-                "peptídeo",
-                "peptídio",
-                "péptido"
+                "peptídeo [Br.]",
+                "péptido [Pt.]"
             ],
             "ga": [
                 "péptido"
@@ -78943,9 +78672,8 @@
                 "C-peptide"
             ],
             "pt": [
-                "peptídeo C",
-                "peptídio C",
-                "péptido C"
+                "peptídeo C [Br.]",
+                "péptido C [Pt.]"
             ],
             "ga": [
                 "péptido C"
@@ -78965,10 +78693,8 @@
                 "vasoactive intestinal peptide"
             ],
             "pt": [
-                "peptídeo intestinal vasoativo",
-                "peptídio intestinal vasoativo",
-                "péptido intestinal vasoactivo",
-                "VIP (sg)"
+                "peptídeo intestinal vasoativo [Br.]",
+                "péptido intestinal vasoactivo [Pt.]"
             ],
             "ga": [
                 "péptido intestinal vasoactivo",
@@ -78991,8 +78717,7 @@
             ],
             "pt": [
                 "ANP (sg)",
-                "peptídio natriurético atrial",
-                "péptido natriurético atrial",
+                "peptídio natriurético atrial [Br.]",
                 "PNA (sg)"
             ],
             "ga": [
@@ -79015,7 +78740,7 @@
             ],
             "pt": [
                 "mureína",
-                "peptidoglicano"
+                "peptidoglicano [Pt.]"
             ],
             "ga": [
                 "peptidoglicano",
@@ -79489,8 +79214,7 @@
                 "refractory period"
             ],
             "pt": [
-                "período refractário",
-                "período refratário"
+                "período refractário [Pt.]"
             ],
             "ga": [
                 "período refractario"
@@ -79612,8 +79336,7 @@
                 "peritoneum"
             ],
             "pt": [
-                "peritoneu",
-                "peritônio"
+                "peritoneu [Pt.]"
             ],
             "la": [
                 "peritoneum"
@@ -79920,7 +79643,7 @@
             ],
             "pt": [
                 "peste",
-                "; peste bubónica"
+                "; peste bubónica [Pt.]"
             ],
             "ga": [
                 "peste",
@@ -80545,8 +80268,7 @@
                 "pyorrhea"
             ],
             "pt": [
-                "piorréia",
-                "piorreia"
+                "piorréia [Br.]"
             ],
             "ga": [
                 "piorrea"
@@ -81121,8 +80843,7 @@
                 "plasminogen"
             ],
             "pt": [
-                "plasminogênio",
-                "plasminógeno"
+                "plasminogênio [Br.]"
             ],
             "ga": [
                 "plasminóxeno"
@@ -81744,8 +81465,7 @@
                 "pneumoperitoneum"
             ],
             "pt": [
-                "pneumoperitoneu",
-                "pneumoperitônio"
+                "pneumoperitoneu [Pt.]"
             ],
             "ga": [
                 "pneumoperitoneo"
@@ -81958,8 +81678,7 @@
                 "pollakiuria"
             ],
             "pt": [
-                "polaciúria",
-                "polaquiúria"
+                "polaciúria [Br.]"
             ],
             "ga": [
                 "polaquiúria"
@@ -82113,8 +81832,7 @@
                 "polymenorrhea"
             ],
             "pt": [
-                "polimenorréia",
-                "polimenorreia"
+                "polimenorréia [Br.]"
             ],
             "ga": [
                 "polimenorrea"
@@ -82353,8 +82071,7 @@
             ],
             "pt": [
                 "polipose",
-                "polipose colônica familiar",
-                "polipose colónica familiar"
+                "polipose colônica familiar [Br.]"
             ],
             "ga": [
                 "polipose colónica familiar",
@@ -82374,8 +82091,7 @@
                 "polysaccharide"
             ],
             "pt": [
-                "polissacarídeo",
-                "polissacárido"
+                "polissacarídeo [Br.]"
             ],
             "ga": [
                 "polisacárido"
@@ -82651,8 +82367,7 @@
                 "anatomical position"
             ],
             "pt": [
-                "posição anatômica",
-                "posição anatómica"
+                "posição anatômica [Br.]"
             ],
             "ga": [
                 "posición anatómica"
@@ -82848,8 +82563,7 @@
                 "action potential"
             ],
             "pt": [
-                "potencial de ação",
-                "potencial de acção"
+                "potencial de ação [Br.]"
             ],
             "ga": [
                 "potencial de acción"
@@ -83246,15 +82960,14 @@
         ],
         "traducao": {
             "es": [
-                "condón",
-                "preservativo"
+                "condón [pop.]",
+                "profiláctico [cult.]"
             ],
             "en": [
                 "condom"
             ],
             "pt": [
-                "camisa-de-vênus",
-                "camisinha",
+                "camisa-de-vênus [pop.]",
                 "preservativo"
             ],
             "ga": [
@@ -83271,8 +82984,7 @@
         "traducao": {
             "es": [
                 "presión arterial",
-                "tensión",
-                "tensión arterial"
+                "tensión [pop.]"
             ],
             "en": [
                 "arterial pressure",
@@ -83280,8 +82992,7 @@
             ],
             "pt": [
                 "pressão arterial",
-                "tensão",
-                "tensão arterial"
+                "tensão [pop.]"
             ],
             "ga": [
                 "presión arterial",
@@ -83645,8 +83356,7 @@
         ],
         "traducao": {
             "es": [
-                "primeriza",
-                "primípara"
+                "primeriza [pop.]"
             ],
             "en": [
                 "primipara"
@@ -83891,7 +83601,7 @@
             ],
             "pt": [
                 "proctectomia",
-                "retectomia"
+                "retectomia [Br.]"
             ],
             "ga": [
                 "proctectomía",
@@ -83970,7 +83680,7 @@
             ],
             "pt": [
                 "proctopexia",
-                "retopexia"
+                "retopexia [Br.]"
             ],
             "ga": [
                 "proctopexia",
@@ -84030,7 +83740,7 @@
             ],
             "pt": [
                 "proctoscopia",
-                "retoscopia"
+                "retoscopia [Br.]"
             ],
             "ga": [
                 "proctoscopia",
@@ -84090,7 +83800,7 @@
             ],
             "pt": [
                 "proctotomia",
-                "retotomia"
+                "retotomia [Br.]"
             ],
             "ga": [
                 "proctotomía",
@@ -84235,8 +83945,7 @@
                 "; prolactina"
             ],
             "pt": [
-                "hormona lactogénica",
-                "hormônio"
+                "hormona lactogénica [Pt.]"
             ],
             "ga": [
                 "prolactina",
@@ -84317,8 +84026,7 @@
                 "rectal prolapse"
             ],
             "pt": [
-                "prolapso rectal",
-                "prolapso retal"
+                "prolapso rectal [Pt.]"
             ],
             "ga": [
                 "prolapso rectal"
@@ -84486,7 +84194,7 @@
             ],
             "pt": [
                 "POMC (sg)",
-                "pro-opiomelanocortina"
+                "pro-opiomelanocortina [Pt.]"
             ],
             "ga": [
                 "proopiomelanocortina",
@@ -84743,8 +84451,7 @@
                 "health protection"
             ],
             "pt": [
-                "proteção da saúde",
-                "protecção da saúde"
+                "proteção da saúde [Br.]"
             ],
             "ga": [
                 "protección da saúde"
@@ -84763,8 +84470,7 @@
                 "protective"
             ],
             "pt": [
-                "protector",
-                "protetor"
+                "protector [Pt.]"
             ],
             "ga": [
                 "protector"
@@ -84806,7 +84512,7 @@
             ],
             "pt": [
                 "PCR (sg)",
-                "proteína C reativa"
+                "proteína C reativa [Br.]"
             ],
             "ga": [
                 "proteína C reactiva",
@@ -85063,8 +84769,7 @@
                 "projection"
             ],
             "pt": [
-                "projeção",
-                "projecção"
+                "projeção [Br.]"
             ],
             "ga": [
                 "proxección"
@@ -85127,8 +84832,7 @@
                 "itch"
             ],
             "pt": [
-                "coceira",
-                "prurido"
+                "coceira [pop.]"
             ],
             "ga": [
                 "prurito",
@@ -86076,8 +85780,7 @@
                 "thrombocytopenic purpura"
             ],
             "pt": [
-                "púrpura trombocitopênica",
-                "púrpura trombocitopénica"
+                "púrpura trombocitopênica [Br.]"
             ],
             "ga": [
                 "púrpura trombopénica"
@@ -86099,7 +85802,7 @@
             ],
             "pt": [
                 "PTI (sg)",
-                "púrpura trombocitopénica idiopática"
+                "púrpura trombocitopénica idiopática [Pt.]"
             ],
             "ga": [
                 "púrpura trombopénica idiopática",
@@ -86122,7 +85825,7 @@
             ],
             "pt": [
                 "PTT (sg)",
-                "púrpura trombocitopénica trombótica"
+                "púrpura trombocitopénica trombótica [Pt.]"
             ],
             "ga": [
                 "púrpura trombopénica trombótica",
@@ -87017,16 +86720,13 @@
         ],
         "traducao": {
             "es": [
-                "hidrofobia",
-                "rabia"
+                "hidrofobia [arc.]"
             ],
             "en": [
-                "hydrophobia",
-                "rabies"
+                "hydrophobia [arc.]"
             ],
             "pt": [
-                "hidrofobia",
-                "raiva"
+                "hidrofobia [arc.]"
             ],
             "ga": [
                 "rabia",
@@ -87104,8 +86804,7 @@
                 "carboxil radical"
             ],
             "pt": [
-                "radical carboxila",
-                "radical carboxilo"
+                "radical carboxila [Br.]"
             ],
             "ga": [
                 "radical carboxilo"
@@ -87143,8 +86842,7 @@
                 "methyl radical"
             ],
             "pt": [
-                "radical metila",
-                "radical metilo"
+                "radical metila [Br.]"
             ],
             "ga": [
                 "radical metilo"
@@ -87679,8 +87377,7 @@
                 "reaction"
             ],
             "pt": [
-                "reação",
-                "reacção"
+                "reação [Br.]"
             ],
             "ga": [
                 "reacción"
@@ -87760,8 +87457,7 @@
                 "catastrophic reaction"
             ],
             "pt": [
-                "reação catastrófica",
-                "reacção catastrófica"
+                "reação catastrófica [Br.]"
             ],
             "ga": [
                 "reacción catastrófica"
@@ -87844,7 +87540,7 @@
             ],
             "pt": [
                 "PCR (sg)",
-                "reacção em cadeia da polimerase"
+                "reacção em cadeia da polimerase [Pt.]"
             ],
             "ga": [
                 "reacción en cadea da polimerase",
@@ -88081,8 +87777,7 @@
                 "rectum"
             ],
             "pt": [
-                "recto",
-                "reto"
+                "recto [Pt.]"
             ],
             "la": [
                 "rectum"
@@ -88104,8 +87799,7 @@
                 "rectorragia"
             ],
             "pt": [
-                "rectorragia",
-                "retorragia"
+                "rectorragia [Pt.]"
             ],
             "ga": [
                 "rectorraxia"
@@ -88536,8 +88230,7 @@
                 "refractory"
             ],
             "pt": [
-                "refractário",
-                "refratário"
+                "refractário [Pt.]"
             ],
             "ga": [
                 "refractario -ria"
@@ -89523,8 +89216,7 @@
                 "lid retraction"
             ],
             "pt": [
-                "retração palpebral",
-                "retracção palpebral"
+                "retração palpebral [Br.]"
             ],
             "ga": [
                 "retracción palpebral"
@@ -90164,8 +89856,7 @@
                 "rhinorrhea"
             ],
             "pt": [
-                "rinorréia",
-                "rinorreia"
+                "rinorréia [Br.]"
             ],
             "ga": [
                 "rinorrea"
@@ -90752,8 +90443,7 @@
                 "flush"
             ],
             "pt": [
-                "rubefação",
-                "rubefacção",
+                "rubefação [Br.]",
                 "rubor"
             ],
             "ga": [
@@ -91067,8 +90757,7 @@
                 "saliva"
             ],
             "pt": [
-                "cuspo",
-                "saliva"
+                "cuspo [pop.]"
             ],
             "ga": [
                 "saliva",
@@ -91381,8 +91070,7 @@
                 "sarcomere"
             ],
             "pt": [
-                "sarcômero",
-                "sarcómero"
+                "sarcômero [Br.]"
             ],
             "ga": [
                 "sarcómera"
@@ -91956,8 +91644,7 @@
                 "clonal selection"
             ],
             "pt": [
-                "seleção clonal",
-                "selecção clonal"
+                "seleção clonal [Br.]"
             ],
             "ga": [
                 "selección clonal"
@@ -92631,8 +92318,7 @@
                 "chromosomal sex"
             ],
             "pt": [
-                "sexo cromossômico",
-                "sexo cromossómico"
+                "sexo cromossômico [Br.]"
             ],
             "ga": [
                 "sexo cromosómico"
@@ -92825,8 +92511,7 @@
                 ""
             ],
             "pt": [
-                "; sialorréia",
-                "sialorreia"
+                "; sialorréia [Br.]"
             ],
             "en": [
                 ""
@@ -93932,7 +93617,7 @@
             ],
             "pt": [
                 "SFC (sg)",
-                "síndrome de fadiga crónica"
+                "síndrome de fadiga crónica [Pt.]"
             ],
             "ga": [
                 "síndrome de fatiga crónica",
@@ -94050,8 +93735,7 @@
                 "SIRS (sg)"
             ],
             "pt": [
-                "síndrome de resposta inflamatória sistêmica",
-                "síndrome de resposta inflamatória sistémica"
+                "síndrome de resposta inflamatória sistêmica [Br.]"
             ],
             "ga": [
                 "síndrome de resposta inflamatoria sistémica f",
@@ -94365,8 +94049,7 @@
                 "hemolytic uremic syndrome"
             ],
             "pt": [
-                "síndrome hemolítica urêmica",
-                "síndrome hemolítica urémica"
+                "síndrome hemolítica urêmica [Br.]"
             ],
             "ga": [
                 "síndrome hemolítica urémica"
@@ -94879,8 +94562,7 @@
                 "ABO system"
             ],
             "pt": [
-                "factores ABO",
-                "fatores ABO",
+                "factores ABO [Pt.]",
                 "sistema ABO"
             ],
             "ga": [
@@ -95071,8 +94753,7 @@
                 "autonomic part of peripheral nervous system"
             ],
             "pt": [
-                "sistema nervoso autônomo",
-                "sistema nervoso autónomo",
+                "sistema nervoso autônomo [Br.]",
                 "sistema nervoso vegetativo"
             ],
             "la": [
@@ -95239,8 +94920,7 @@
                 "Rh system"
             ],
             "pt": [
-                "factor Rh",
-                "fator Rh",
+                "factor Rh [Pt.]",
                 "sistema do grupo sanguíneo Rh"
             ],
             "ga": [
@@ -95394,8 +95074,7 @@
                 "restriction site"
             ],
             "pt": [
-                "sítio de restrição",
-                "sítio de restricção"
+                "sítio de restrição [Br.]"
             ],
             "ga": [
                 "sitio de restrición"
@@ -96364,8 +96043,7 @@
                 "surfactant"
             ],
             "pt": [
-                "agente tensoactivo",
-                "agente tensoativo",
+                "agente tensoactivo [Pt.]",
                 "surfactante"
             ],
             "ga": [
@@ -96386,8 +96064,7 @@
                 "susceptibility"
             ],
             "pt": [
-                "susceptibilidade",
-                "suscetibilidade"
+                "susceptibilidade [Pt.]"
             ],
             "ga": [
                 "susceptibilidade"
@@ -96531,8 +96208,7 @@
                 "anatomical snuffbox"
             ],
             "pt": [
-                "tabaqueira anatômica",
-                "tabaqueira anatómica"
+                "tabaqueira anatômica [Br.]"
             ],
             "ga": [
                 "tabaqueira anatómica"
@@ -96653,8 +96329,7 @@
                 "touch"
             ],
             "pt": [
-                "tacto",
-                "tato"
+                "tacto [Pt.]"
             ],
             "ga": [
                 "tacto"
@@ -96673,8 +96348,7 @@
                 "digital rectal examination"
             ],
             "pt": [
-                "toque rectal",
-                "toque retal"
+                "toque rectal [Pt.]"
             ],
             "ga": [
                 "tacto rectal"
@@ -96956,10 +96630,8 @@
                 "polypnea"
             ],
             "pt": [
-                "polipnéia",
-                "polipneia",
-                "taquipnéia",
-                "taquipneia"
+                "polipnéia [Br.]",
+                "taquipnéia [Br.]"
             ],
             "ga": [
                 "taquipnea",
@@ -96979,8 +96651,7 @@
                 "tachypnea"
             ],
             "pt": [
-                "taquipnéia",
-                "taquipneia"
+                "taquipnéia [Br.]"
             ],
             "ga": [
                 "taquipnea"
@@ -97612,8 +97283,7 @@
                 "telomere"
             ],
             "pt": [
-                "telômero",
-                "telómero"
+                "telômero [Br.]"
             ],
             "ga": [
                 "telómero"
@@ -97890,15 +97560,14 @@
         ],
         "traducao": {
             "es": [
-                "solitaria",
-                "teniasis"
+                "solitaria [pop.]",
+                "teniosis"
             ],
             "en": [
                 "taeniasis"
             ],
             "pt": [
-                "solitária",
-                "teníase"
+                "solitária [pop.]"
             ],
             "ga": [
                 "teníase",
@@ -98238,8 +97907,7 @@
                 "thermometer"
             ],
             "pt": [
-                "termômetro",
-                "termómetro"
+                "termômetro [Br.]"
             ],
             "ga": [
                 "termómetro"
@@ -98315,8 +97983,7 @@
                 "thermogenesis"
             ],
             "pt": [
-                "termogênese",
-                "termogénese"
+                "termogênese [Br.]"
             ],
             "ga": [
                 "termoxénese"
@@ -98336,9 +98003,8 @@
                 "night terror"
             ],
             "pt": [
-                "pavor nocturno",
-                "terror nocturno",
-                "terror noturno"
+                "pavor nocturno [Pt.]pavor noturno [Br.]",
+                "terror noturno [Br.]"
             ],
             "ga": [
                 "terror nocturno",
@@ -98853,8 +98519,7 @@
                 "patch test"
             ],
             "pt": [
-                "teste de contacto",
-                "teste de contato"
+                "teste de contacto [Pt.]"
             ],
             "ga": [
                 "test de parche",
@@ -98980,8 +98645,7 @@
                 "photopatch test"
             ],
             "pt": [
-                "fototeste de contacto",
-                "fototeste de contato",
+                "fototeste de contacto [Pt.]",
                 "photopatch"
             ],
             "ga": [
@@ -99521,8 +99185,7 @@
                 "tympanometer"
             ],
             "pt": [
-                "timpanômetro",
-                "timpanómetro"
+                "timpanômetro [Br.]"
             ],
             "ga": [
                 "timpanómetro"
@@ -99920,7 +99583,7 @@
             ],
             "pt": [
                 "SPECT (sg)",
-                "tomografia por emissão de fóton único"
+                "tomografia por emissão de fóton único [Br.]"
             ],
             "ga": [
                 "tomografía por emisión de fotón único",
@@ -99943,8 +99606,7 @@
             ],
             "pt": [
                 "PET (sg)",
-                "tomografia de emissão de positrões",
-                "tomografia de emissão de pósitrons"
+                "tomografia de emissão de positrões [Pt.]"
             ],
             "ga": [
                 "tomografía por emisión de positróns",
@@ -99985,7 +99647,7 @@
             ],
             "pt": [
                 "reconstituinte",
-                "tónico"
+                "tónico [Pt.]"
             ],
             "ga": [
                 "tónico",
@@ -100145,8 +99807,8 @@
         ],
         "traducao": {
             "es": [
-                "pecho de paloma",
-                "pectus carinatum"
+                "pecho de paloma [pop.]",
+                "tórax en quilla"
             ],
             "en": [
                 "pectus carinatum"
@@ -100237,8 +99899,8 @@
                 "pertussis"
             ],
             "pt": [
-                "coqueluche",
-                "pertosse"
+                "coqueluche [Br]",
+                "tosse convulsa"
             ],
             "ga": [
                 "tose ferina",
@@ -100457,8 +100119,7 @@
                 "traction"
             ],
             "pt": [
-                "tração",
-                "tracção"
+                "tração [Br.]"
             ],
             "ga": [
                 "tracción"
@@ -100501,8 +100162,7 @@
                 "tract"
             ],
             "pt": [
-                "tracto",
-                "trato"
+                "tracto [Pt.]"
             ],
             "la": [
                 "tractus"
@@ -100524,8 +100184,7 @@
                 "olfactory tract"
             ],
             "pt": [
-                "tracto olfactório",
-                "trato olfatório"
+                "tracto olfactório [Pt.]"
             ],
             "la": [
                 "tractus olfactorius"
@@ -100549,8 +100208,7 @@
                 "optic tract"
             ],
             "pt": [
-                "tracto óptico",
-                "trato óptico"
+                "tracto óptico [Pt.]"
             ],
             "la": [
                 "tractus opticus"
@@ -100957,8 +100615,7 @@
                 "active transport"
             ],
             "pt": [
-                "transporte activo",
-                "transporte ativo"
+                "transporte activo [Pt.]"
             ],
             "ga": [
                 "transporte activo"
@@ -101051,8 +100708,7 @@
                 "trachea"
             ],
             "pt": [
-                "traquéia",
-                "traqueia"
+                "traquéia [Br.]"
             ],
             "la": [
                 "trachea"
@@ -101285,7 +100941,7 @@
             ],
             "en": [
                 "bipolar depression",
-                "manic-depressive psychosis"
+                "manic-depressive psychosis [arc.]"
             ],
             "pt": [
                 "depressão bipolar",
@@ -101804,8 +101460,7 @@
                 "greater trochanter"
             ],
             "pt": [
-                "trocanter maior",
-                "trocânter maior"
+                "trocanter maior [Br.]"
             ],
             "la": [
                 "trochanter major"
@@ -101827,8 +101482,7 @@
                 "lesser trochanter"
             ],
             "pt": [
-                "trocanter menor",
-                "trocânter menor"
+                "trocanter menor [Br.]"
             ],
             "la": [
                 "trochanter minor"
@@ -102493,16 +102147,13 @@
         ],
         "traducao": {
             "es": [
-                "tisis",
-                "tuberculosis"
+                "tisis [arc.]"
             ],
             "en": [
-                "phthisis",
-                "tuberculosis"
+                "phthisis [arc.]"
             ],
             "pt": [
-                "tísica",
-                "tuberculose"
+                "tísica [arc.]"
             ],
             "ga": [
                 "tuberculose",
@@ -102714,8 +102365,7 @@
             ],
             "pt": [
                 "inchaço",
-                "tumefacção",
-                "tumescência"
+                "tumefacção [Pt.]"
             ],
             "ga": [
                 "tumefacción",
@@ -102994,8 +102644,7 @@
             ],
             "pt": [
                 "UCI (sg)",
-                "unidade de tratamento intensivo",
-                "UTI (sg)"
+                "unidade de tratamento intensivo [Br.]"
             ],
             "ga": [
                 "unidade de coidados intensivos",
@@ -103134,8 +102783,7 @@
                 "uracil"
             ],
             "pt": [
-                "uracila",
-                "uracilo"
+                "uracila [Br.]"
             ],
             "ga": [
                 "uracilo",
@@ -103155,8 +102803,7 @@
                 "urea"
             ],
             "pt": [
-                "uréia",
-                "ureia"
+                "uréia [Br.]"
             ],
             "ga": [
                 "urea"
@@ -103195,8 +102842,7 @@
                 "ureter"
             ],
             "pt": [
-                "ureter",
-                "uréter"
+                "ureter [Br.]"
             ],
             "la": [
                 "ureter"
@@ -103689,8 +103335,7 @@
             ],
             "pt": [
                 "camada vascular do globo ocular",
-                "trato uveal",
-                "úvea"
+                "trato uveal [Br.]"
             ],
             "la": [
                 "tunica vasculosa bulbi"
@@ -103727,8 +103372,7 @@
         ],
         "traducao": {
             "es": [
-                "campanilla",
-                "úvula palatina"
+                "campanilla [pop.]"
             ],
             "en": [
                 "uvula"
@@ -104481,8 +104125,7 @@
                 "vasoconstriction"
             ],
             "pt": [
-                "vasoconstrição",
-                "vasoconstricção"
+                "vasoconstrição [Br.]"
             ],
             "ga": [
                 "vasoconstrición"
@@ -104578,8 +104221,7 @@
                 "vasoprotective agent"
             ],
             "pt": [
-                "vasoprotector",
-                "vasoprotetor"
+                "vasoprotector [Pt.]"
             ],
             "ga": [
                 "vasoprotector"
@@ -105008,8 +104650,7 @@
                 "splenic vein"
             ],
             "pt": [
-                "veia esplênica",
-                "veia esplénica"
+                "veia esplênica [Br.]"
             ],
             "la": [
                 "vena lienalis"
@@ -105771,8 +105412,7 @@
                 "vector"
             ],
             "pt": [
-                "vector",
-                "vetor"
+                "vector [Pt]"
             ],
             "ga": [
                 "vector"
@@ -105791,8 +105431,7 @@
                 "erythrocyte sedimentation rate"
             ],
             "pt": [
-                "velocidade de hemossedimentação",
-                "velocidade de sedimentação eritrocitária"
+                "velocidade de hemossedimentação [Br.]"
             ],
             "ga": [
                 "velocidade de sedimentación dos glóbulos vermellos",
@@ -106169,8 +105808,7 @@
                 "venule"
             ],
             "pt": [
-                "vênula",
-                "vénula"
+                "vênula [Br.]"
             ],
             "la": [
                 "venula"
@@ -106660,8 +106298,7 @@
                 "neurogenic bladder"
             ],
             "pt": [
-                "bexiga neurogênica",
-                "bexiga neurogénica"
+                "bexiga neurogênica [Br.]"
             ],
             "ga": [
                 "vexiga neuróxena"
@@ -106918,8 +106555,7 @@
                 "rectal route"
             ],
             "pt": [
-                "via rectal",
-                "via retal"
+                "via rectal [Pt.]"
             ],
             "ga": [
                 "vía rectal"
@@ -107168,8 +106804,7 @@
                 "virion"
             ],
             "pt": [
-                "virião",
-                "vírion"
+                "virião [Pt]"
             ],
             "ga": [
                 "virión"
@@ -107747,7 +107382,7 @@
             ],
             "pt": [
                 "leucodermia",
-                "vitiligo"
+                "vitiligo [Br.]"
             ],
             "ga": [
                 "vitilixe",
@@ -108006,8 +107641,7 @@
                 "vomer"
             ],
             "pt": [
-                "vômer",
-                "vómer"
+                "vômer [Br.]"
             ],
             "la": [
                 "vomer"
@@ -108030,7 +107664,7 @@
             ],
             "pt": [
                 "emese",
-                "vómito"
+                "vómito [Pt.]"
             ],
             "ga": [
                 "vómito",
@@ -108328,10 +107962,8 @@
                 "fraternal twins"
             ],
             "pt": [
-                "gêmeos dizigóticos",
-                "gémeos dizigóticos",
-                "gêmeos fraternos",
-                "gémeos fraternos"
+                "gêmeos dizigóticos [Br.]",
+                "gêmeos fraternos [Br.]"
             ],
             "ga": [
                 "xemelgos dicigóticos",
@@ -108355,10 +107987,8 @@
                 "monozygotic twins"
             ],
             "pt": [
-                "gêmeos idénticos",
-                "gémeos idénticos",
-                "gêmeos monozigóticos",
-                "gémeos monozigóticos"
+                "gêmeos idénticos [Br.]",
+                "gêmeos monozigóticos [Br.]"
             ],
             "ga": [
                 "xemelgos monocigóticos",
@@ -108381,9 +108011,8 @@
                 "conjoined twins"
             ],
             "pt": [
-                "gêmeos siameses",
-                "gémeos siameses[Pt]",
-                "gémeos unidos"
+                "gêmeos siameses [Br.]",
+                "gêmeos unidos [Br.]"
             ],
             "ga": [
                 "xemelgos siameses",
