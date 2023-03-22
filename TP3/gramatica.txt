@@ -1,0 +1,78 @@
+DIC -> E*
+
+E   -> ID ':' ITEM*
+
+ITEM    -> Area
+        | Linguas
+
+Area    -> 'Areas' ':' VAL+
+
+Linguas -> 'Linguas' ':' Lingua
+
+Lingua  -> '@' ID_LING ':' Entrada
+
+Entrada -> VAL Var*
+
+Var     -> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

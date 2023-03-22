@@ -1,0 +1,25 @@
+1:
+    Areas:
+        "Patoloxías"
+    Linguas:
+        @es:
+            "paperas"
+                Marcas: pop
+        @en:
+            "mumps"
+                Marcas: pop
+        @pt: 
+            "caxumba"
+                Marcas: pop, Br
+            "parotidite"
+        @ga:
+            "parotidite"
+            "orellóns"
+                Marcas: pop
+                Genero: m
+                Quantidade: pl
+            "papeiras"
+                Marcas: pop
+                Genero: m
+                Quantidade: pl
+        
