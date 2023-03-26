@@ -8,11 +8,11 @@ a. m.
 abrev.
 al.
 art. 
-at.º
+ato.
 at.te
 av.
 bol.
-C.ª
+Ca.
 cap.
 cat.
 cf.
@@ -26,21 +26,21 @@ D.
 Dig.mo
 doc.
 Dr.
-Dr.ª
+Dra.
 E. C.
 E. D.
 e. g.
 ed.
 enc.
 Eng.
-Eng.ª
+Enga.
 et al.
 etc.
 ex.
-Ex.ª
+Exa.
 Ex.mo
 Ex.ma
-f.º
+fo.
 fasc.
 fig.
 fl.
@@ -52,9 +52,9 @@ ib.
 ibid.
 id.
 lat.
-Ld.ª
+Lda.
 Lic.
-Lic.ª
+Lica.
 liv.
 loc. cit.
 M.e
@@ -63,10 +63,10 @@ N. B.
 N. da R.
 N. do A.
 N. do T.
-n.º
+no.
 ob.
 Obg.o
-Obg.ª
+Obga.
 obs.
 op. cit.
 ob. cit.
@@ -80,24 +80,24 @@ p.
 pág.
 proc.
 prof.
-prof.ª
+profa.
 q. b.
 R.
 rel.
 s. d.
-S. Ex.ª
+S. Exa.
 s. f. f.
 s. l.
 S. M.
 s. p.
 S. S.
 S.
-St.º
-St.ª
+Sto.
+Sta.
 S. A. R.
 S. M.
 Sr.
-Sr.ª
+Sra.
 supl.
 t.
 tip.
@@ -105,7 +105,7 @@ tít.
 trad.
 V.
 V. A.
-V. Ex.ª
+V. Exa.
 v. g.
 V. S. F. F.
 vd.

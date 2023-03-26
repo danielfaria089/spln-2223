@@ -24,9 +24,8 @@ def separaPontuacao(text,abrevs):
     Realizar tratamento das abreviaturas
     '''
 
-    for key in abrevs:
-        abrev=abrevs[key]
-        regex_abrev = r""+abrev
+    for abrev in abrevs:
+        regex_abrev = r""+abrev.replace(".","\.")
         text=re.sub(regex_abrev, r"<"+abrev.replace(".","")+r">", text)
 
     return text
@@ -57,7 +56,7 @@ def juntarFrases(text):
             else:
                 linhas.append(linha)
 
-    return linhas.join("\n")
+    return "\n".join(linhas)
 
 def guarda_poemas(text):
     '''6. Guardar poemas'''
@@ -65,14 +64,14 @@ def guarda_poemas(text):
     for match in matches:
         list_poems.append(match.group(1))
 
-def abbreviations(lang):
+def abbreviations(lang: str = None):
     '''Read abbreviations from file'''
 
     # get the current directory
     dirname = os.path.abspath(__file__)
     # remove the file name from the path
     dirname = dirname[:dirname.rfind('/')]
-    abrevFile = dirname+'/conf/abrev.txt'
+    abrevFile = dirname+'/abrev.txt'
 
     abrevs={}
 
@@ -84,14 +83,17 @@ def abbreviations(lang):
             split=lang_txt.split("\n")
             abrevs[split[0]]=split[1:]
     
-    return abrevs
+    if(lang):
+        return abrevs[lang]
+    else:
+        return [x for y in abrevs.values() for x in y]
 
 def main():
     vars=parse_args()
     text=read_inputFile()
 
     text=quebrasPagina(text)
-    text=separaPontuacao(text)
+    text=separaPontuacao(text,abbreviations(vars['language']))
     text=marcarCapitulos(text)
     text=juntarFrases(text)
     if(vars['poems']):
