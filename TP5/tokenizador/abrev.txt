@@ -1,0 +1,113 @@
+#pt
+A.
+AA.
+a. C.
+a. D.
+a. l.
+a. m.
+abrev.
+al.
+art. 
+at.º
+at.te
+av.
+bol.
+C.ª
+cap.
+cat.
+cf.
+cit.
+cód.
+col.
+colet.
+cp.
+d. C.
+D.
+Dig.mo
+doc.
+Dr.
+Dr.ª
+E. C.
+E. D.
+e. g.
+ed.
+enc.
+Eng.
+Eng.ª
+et al.
+etc.
+ex.
+Ex.ª
+Ex.mo
+Ex.ma
+f.º
+fasc.
+fig.
+fl.
+fr.
+fs.
+gloss.
+i. e.
+ib.
+ibid.
+id.
+lat.
+Ld.ª
+Lic.
+Lic.ª
+liv.
+loc. cit.
+M.e
+ms.
+N. B.
+N. da R.
+N. do A.
+N. do T.
+n.º
+ob.
+Obg.o
+Obg.ª
+obs.
+op. cit.
+ob. cit.
+P. E. F.
+p. ex.
+p. f.
+p. m.
+p. p.
+P. S.
+p.
+pág.
+proc.
+prof.
+prof.ª
+q. b.
+R.
+rel.
+s. d.
+S. Ex.ª
+s. f. f.
+s. l.
+S. M.
+s. p.
+S. S.
+S.
+St.º
+St.ª
+S. A. R.
+S. M.
+Sr.
+Sr.ª
+supl.
+t.
+tip.
+tít.
+trad.
+V.
+V. A.
+V. Ex.ª
+v. g.
+V. S. F. F.
+vd.
+vol.
+vs.
